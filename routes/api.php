@@ -23,4 +23,4 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 Route::apiResource('posts', PostController::class);
-Route::post('enquser', [EnquserController::class,"login"]);
+Route::get('enquser', [EnquserController::class,"login"]);
