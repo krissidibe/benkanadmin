@@ -1,0 +1,8 @@
+postgres://hzpdhnsxciosex:0452a37cbd885416f00b86fe06e01c64d609c9f5d3f787f829cfa9899177c5ae@ec2-3-234-22-132.compute-1.amazonaws.com:5432/d59phlbsfhnto1
+
+
+user:hzpdhnsxciosex
+pass:0452a37cbd885416f00b86fe06e01c64d609c9f5d3f787f829cfa9899177c5ae
+host:ec2-3-234-22-132.compute-1.amazonaws.com
+dbname:d59phlbsfhnto1
+port:5432
