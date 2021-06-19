@@ -13,15 +13,24 @@ class EnqUserController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function login()
+    public function login(Request $request)
     {
         $credentials = request(['email', 'password']);
-        return $credentials;
+
+       
      $enqUser =  EnqUser::where('email', '=', $credentials["email"])->where('password', '=', $credentials["password"])->first();
-     return [
+     if ($enqUser) {
+        return [
         "status" => 'success',
         "data" => $enqUser
      ];
+     }else{
+          return [
+        "status" => 'false',
+         
+     ];
+     }
+    
     }
     public function index()
     {
