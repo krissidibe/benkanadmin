@@ -17,7 +17,8 @@ class Post extends JsonResource
         return [
         'titre' => $this->titre,
         'contenu' => strip_tags($this->contenu),
-        'updated_at' => $this->updated_at ,
+        'updated_at' =>  date("d/m/Y", strtotime($this->updated_at)) ,
+        
     ];
     }
 }

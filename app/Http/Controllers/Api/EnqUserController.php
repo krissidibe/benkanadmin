@@ -15,11 +15,11 @@ class EnqUserController extends Controller
      */
     public function login(Request $request)
     {
-        $credentials = request(['email', 'password']);
+    
+    $credentials = request(['email', 'password']);
 
-       
-     $enqUser =  EnqUser::where('email', '=', $credentials["email"])->where('password', '=', $credentials["password"])->first();
-     if ($enqUser) {
+    $enqUser =  EnqUser::where('email', '=', $credentials["email"])->where('password', '=', $credentials["password"])->first();
+    if ($enqUser) {
         return [
         "status" => 'success',
         "data" => $enqUser
