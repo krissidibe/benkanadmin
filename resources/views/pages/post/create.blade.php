@@ -1,6 +1,7 @@
-@extends("admin.template")
+ù@extends("admin.template")
 @section("content")
  
+<form action="{{ route("admin.post.store") }}" method="post" encType="multipart/form-data"   id="demo-form2" data-parsley-validate="" class="form-horizontal form-label-left" novalidate="">
 <div class="row">
     <div class="col-md-9">
          <div class="x_panel">
@@ -11,8 +12,7 @@
 								</div>
 								<div class="x_content">
 									<br>
-									<form action="{{ route("admin.post.store") }}" method="post"  id="demo-form2" data-parsley-validate="" class="form-horizontal form-label-left" novalidate="">
-@method("post")
+@method("post") 
 @csrf
 	<input type="hidden" name="id" value="{{$post->id}}" >
 										<div class="item form-group">
@@ -43,7 +43,7 @@
 											</div>
 										</div>
 
-									</form>
+							
 								</div>
 		</div>
 </div>
@@ -53,6 +53,10 @@
 									<h2>Photo de l'article</h2>
 									 
 									<div class="clearfix"></div>
+								<div class="x_content">
+									<br>
+								<input type="file" name="image" id="">
+								</div>
 								</div>
 								<div class="x_content">
 									<br>
@@ -61,6 +65,13 @@
 		</div>
 </div>
 </div>
-
+		</form>
+@if ($message = Session::get('success'))
+<div class="alert alert-success alert-dismissible " role="alert">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span>
+                    </button>
+                     <strong>{{ $message }}</strong>
+                  </div>
+@endif
 
 @endsection

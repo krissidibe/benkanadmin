@@ -19,6 +19,8 @@ class Enquser extends Migration
             $table->string("prenom");
             $table->string("email");
             $table->string("password");
+            $table->string("role");
+            $table->string("region");
             $table->string("adresse");
             $table->string("sexe");
             $table->string("telephone");

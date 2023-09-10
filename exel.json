@@ -1,0 +1,5336 @@
+{
+    "BKO": [
+        {
+            "undefined": "DISTRICT DE BAMAKO"
+        },
+        {
+            "undefined": "Nre de bulletins de vote"
+        },
+        {
+            "undefined": "225,289"
+        },
+        {
+            "undefined": "129,604"
+        },
+        {
+            "undefined": "100,230"
+        },
+        {
+            "undefined": "203,649"
+        },
+        {
+            "undefined": "284,506"
+        },
+        {
+            "undefined": "322,206"
+        },
+        {
+            "undefined": "1,265,484"
+        }
+    ],
+    "Kayes": [
+        {
+            "undefined": "CERCLE DE BAFOULABE"
+        },
+        {
+            "undefined": "Bulletins de vote"
+        },
+        {
+            "undefined": "9,633"
+        },
+        {
+            "undefined": "8,165"
+        },
+        {
+            "undefined": "15,483"
+        },
+        {
+            "undefined": "7,918"
+        },
+        {
+            "undefined": "6,527"
+        },
+        {
+            "undefined": "2,840"
+        },
+        {
+            "undefined": "9,419"
+        },
+        {
+            "undefined": "5,782"
+        },
+        {
+            "undefined": "13,326"
+        },
+        {
+            "undefined": "3,451"
+        },
+        {
+            "undefined": "9,451"
+        },
+        {
+            "undefined": "3,424"
+        },
+        {
+            "undefined": "14,637"
+        },
+        {
+            "undefined": "110,056"
+        },
+        {
+            "undefined": "CERCLE DE : KAYES"
+        },
+        {
+            "undefined": "Bulletins de vote"
+        },
+        {
+            "undefined": "5,830"
+        },
+        {
+            "undefined": "5,617"
+        },
+        {
+            "undefined": "6,143"
+        },
+        {
+            "undefined": "7,134"
+        },
+        {
+            "undefined": "1,778"
+        },
+        {
+            "undefined": "4,266"
+        },
+        {
+            "undefined": "2,173"
+        },
+        {
+            "undefined": "11,086"
+        },
+        {
+            "undefined": "3,975"
+        },
+        {
+            "undefined": "72,664"
+        },
+        {
+            "undefined": "8,332"
+        },
+        {
+            "undefined": "9,403"
+        },
+        {
+            "undefined": "4,734"
+        },
+        {
+            "undefined": "8,541"
+        },
+        {
+            "undefined": "5,728"
+        },
+        {
+            "undefined": "9,874"
+        },
+        {
+            "undefined": "3,392"
+        },
+        {
+            "undefined": "22,194"
+        },
+        {
+            "undefined": "6,127"
+        },
+        {
+            "undefined": "12,030"
+        },
+        {
+            "undefined": "11,236"
+        },
+        {
+            "undefined": "3,489"
+        },
+        {
+            "undefined": "5,198"
+        },
+        {
+            "undefined": "5,378"
+        },
+        {
+            "undefined": "236,322"
+        },
+        {
+            "undefined": "CERCLE DE : YELIMANE"
+        },
+        {
+            "undefined": "Nbre de  Bulletins"
+        },
+        {
+            "undefined": "5,213"
+        },
+        {
+            "undefined": "10,344"
+        },
+        {
+            "undefined": "3,851"
+        },
+        {
+            "undefined": "6,899"
+        },
+        {
+            "undefined": "21,573"
+        },
+        {
+            "undefined": "15,109"
+        },
+        {
+            "undefined": "2,945"
+        },
+        {
+            "undefined": "5,551"
+        },
+        {
+            "undefined": "2,909"
+        },
+        {
+            "undefined": "2,627"
+        },
+        {
+            "undefined": "6,860"
+        },
+        {
+            "undefined": "6,532"
+        },
+        {
+            "undefined": "90,413"
+        },
+        {
+            "undefined": "CERCLE DE AOUROU"
+        },
+        {
+            "undefined": "Nbre de  Bulletins"
+        },
+        {
+            "undefined": "11,389"
+        },
+        {
+            "undefined": "8,311"
+        },
+        {
+            "undefined": "9,422"
+        },
+        {
+            "undefined": "6,295"
+        },
+        {
+            "undefined": "35,417"
+        },
+        {
+            "undefined": "TOTAL KAYES"
+        },
+        {
+            "undefined": "MONTANT"
+        },
+        {
+            "undefined": "110,056"
+        },
+        {
+            "undefined": "236,322"
+        },
+        {
+            "undefined": "90,413"
+        },
+        {
+            "undefined": "35,417"
+        },
+        {
+            "undefined": "472,208"
+        }
+    ],
+    "Kkoro": [
+        {
+            "undefined": "CERCLE DE KOULIKORO"
+        },
+        {
+            "undefined": "Bulletins de vote"
+        },
+        {
+            "undefined": "8,557"
+        },
+        {
+            "undefined": "3,140"
+        },
+        {
+            "undefined": "10,130"
+        },
+        {
+            "undefined": "26,043"
+        },
+        {
+            "undefined": "11,283"
+        },
+        {
+            "undefined": "14,187"
+        },
+        {
+            "undefined": "14,196"
+        },
+        {
+            "undefined": "4,389"
+        },
+        {
+            "undefined": "5,312"
+        },
+        {
+            "undefined": "97,237"
+        },
+        {
+            "undefined": "CERCLE DE KOLOKANI"
+        },
+        {
+            "undefined": "Bulletins de vote"
+        },
+        {
+            "undefined": "16,486"
+        },
+        {
+            "undefined": "9,491"
+        },
+        {
+            "undefined": "22,025"
+        },
+        {
+            "undefined": "15,231"
+        },
+        {
+            "undefined": "7,160"
+        },
+        {
+            "undefined": "9,746"
+        },
+        {
+            "undefined": "4,223"
+        },
+        {
+            "undefined": "10,564"
+        },
+        {
+            "undefined": "8,998"
+        },
+        {
+            "undefined": "6,468"
+        },
+        {
+            "undefined": "110,392"
+        },
+        {
+            "undefined": "CERCLE DE KATI"
+        },
+        {
+            "undefined": "Bulletins de vote"
+        },
+        {
+            "undefined": "9,267"
+        },
+        {
+            "undefined": "7,622"
+        },
+        {
+            "undefined": "5,630"
+        },
+        {
+            "undefined": "4,897"
+        },
+        {
+            "undefined": "4,341"
+        },
+        {
+            "undefined": "5,459"
+        },
+        {
+            "undefined": "5,607"
+        },
+        {
+            "undefined": "4,264"
+        },
+        {
+            "undefined": "5,657"
+        },
+        {
+            "undefined": "7,161"
+        },
+        {
+            "undefined": "60,180"
+        },
+        {
+            "undefined": "30,245"
+        },
+        {
+            "undefined": "3,566"
+        },
+        {
+            "undefined": "9,453"
+        },
+        {
+            "undefined": "7,613"
+        },
+        {
+            "undefined": "10,732"
+        },
+        {
+            "undefined": "4,199"
+        },
+        {
+            "undefined": "5,375"
+        },
+        {
+            "undefined": "191,268"
+        },
+        {
+            "undefined": "CERCLE DE KANGABA"
+        },
+        {
+            "undefined": "Bulletins de vote"
+        },
+        {
+            "undefined": "3,982"
+        },
+        {
+            "undefined": "2,669"
+        },
+        {
+            "undefined": "7,828"
+        },
+        {
+            "undefined": "3,026"
+        },
+        {
+            "undefined": "6,549"
+        },
+        {
+            "undefined": "9,549"
+        },
+        {
+            "undefined": "5,239"
+        },
+        {
+            "undefined": "5,079"
+        },
+        {
+            "undefined": "3,212"
+        },
+        {
+            "undefined": "47,133"
+        },
+        {
+            "undefined": "CERCLE DE BANAMBA"
+        },
+        {
+            "undefined": "Bulletins de vote"
+        },
+        {
+            "undefined": "15,913"
+        },
+        {
+            "undefined": "3,998"
+        },
+        {
+            "undefined": "18,133"
+        },
+        {
+            "undefined": "1,746"
+        },
+        {
+            "undefined": "23,099"
+        },
+        {
+            "undefined": "6,438"
+        },
+        {
+            "undefined": "10,005"
+        },
+        {
+            "undefined": "6,730"
+        },
+        {
+            "undefined": "5,362"
+        },
+        {
+            "undefined": "91,424"
+        },
+        {
+            "undefined": "CERCLE DE SANANKOROBA"
+        },
+        {
+            "undefined": "Bulletins de vote"
+        },
+        {
+            "undefined": "22,292"
+        },
+        {
+            "undefined": "10,000"
+        },
+        {
+            "undefined": "7,567"
+        },
+        {
+            "undefined": "7,696"
+        },
+        {
+            "undefined": "6,048"
+        },
+        {
+            "undefined": "2,593"
+        },
+        {
+            "undefined": "4,881"
+        },
+        {
+            "undefined": "2,055"
+        },
+        {
+            "undefined": "3,958"
+        },
+        {
+            "undefined": "9,643"
+        },
+        {
+            "undefined": "17,095"
+        },
+        {
+            "undefined": "93,828"
+        },
+        {
+            "undefined": "CERCLE DE KOULIKORO"
+        },
+        {
+            "undefined": "MONTANT"
+        },
+        {
+            "undefined": "97,237"
+        },
+        {
+            "undefined": "110,392"
+        },
+        {
+            "undefined": "191,268"
+        },
+        {
+            "undefined": "47,133"
+        },
+        {
+            "undefined": "91,424"
+        },
+        {
+            "undefined": "93,828"
+        },
+        {
+            "undefined": "631,282"
+        }
+    ],
+    "Sikasso": [
+        {
+            "REGION DE SIKASSO": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE SIKASSO": "Electeurs "
+        },
+        {
+            "REGION DE SIKASSO": "1",
+            "undefined": "17,458",
+            "CERCLE DE SIKASSO": "17,458"
+        },
+        {
+            "REGION DE SIKASSO": "2",
+            "undefined": "1,716",
+            "CERCLE DE SIKASSO": "1,716"
+        },
+        {
+            "REGION DE SIKASSO": "3",
+            "undefined": "4,957",
+            "CERCLE DE SIKASSO": "4,957"
+        },
+        {
+            "REGION DE SIKASSO": "4",
+            "undefined": "4,070",
+            "CERCLE DE SIKASSO": "4,070"
+        },
+        {
+            "REGION DE SIKASSO": "5",
+            "undefined": "7,338",
+            "CERCLE DE SIKASSO": "7,338"
+        },
+        {
+            "REGION DE SIKASSO": "6",
+            "undefined": "3,925",
+            "CERCLE DE SIKASSO": "3,925"
+        },
+        {
+            "REGION DE SIKASSO": "7",
+            "undefined": "11,467",
+            "CERCLE DE SIKASSO": "11,467"
+        },
+        {
+            "REGION DE SIKASSO": "8",
+            "undefined": "14,047",
+            "CERCLE DE SIKASSO": "14,047"
+        },
+        {
+            "REGION DE SIKASSO": "9",
+            "undefined": "3,010",
+            "CERCLE DE SIKASSO": "3,010"
+        },
+        {
+            "REGION DE SIKASSO": "10",
+            "undefined": "5,295",
+            "CERCLE DE SIKASSO": "5,295"
+        },
+        {
+            "REGION DE SIKASSO": "11",
+            "undefined": "7,099",
+            "CERCLE DE SIKASSO": "7,099"
+        },
+        {
+            "REGION DE SIKASSO": "12",
+            "undefined": "5,003",
+            "CERCLE DE SIKASSO": "5,003"
+        },
+        {
+            "REGION DE SIKASSO": "13",
+            "undefined": "3,549",
+            "CERCLE DE SIKASSO": "3,549"
+        },
+        {
+            "REGION DE SIKASSO": "14",
+            "undefined": "5,442",
+            "CERCLE DE SIKASSO": "5,442"
+        },
+        {
+            "REGION DE SIKASSO": "15",
+            "undefined": "15,344",
+            "CERCLE DE SIKASSO": "15,344"
+        },
+        {
+            "REGION DE SIKASSO": "16",
+            "undefined": "2,090",
+            "CERCLE DE SIKASSO": "2,090"
+        },
+        {
+            "REGION DE SIKASSO": "17",
+            "undefined": "4,300",
+            "CERCLE DE SIKASSO": "4,300"
+        },
+        {
+            "REGION DE SIKASSO": "18",
+            "undefined": "3,909",
+            "CERCLE DE SIKASSO": "3,909"
+        },
+        {
+            "REGION DE SIKASSO": "19",
+            "undefined": "4,723",
+            "CERCLE DE SIKASSO": "4,723"
+        },
+        {
+            "REGION DE SIKASSO": "20",
+            "undefined": "135,883",
+            "CERCLE DE SIKASSO": "135,883"
+        },
+        {
+            "REGION DE SIKASSO": "21",
+            "undefined": "1,652",
+            "CERCLE DE SIKASSO": "1,652"
+        },
+        {
+            "REGION DE SIKASSO": "22",
+            "undefined": "2,529",
+            "CERCLE DE SIKASSO": "2,529"
+        },
+        {
+            "REGION DE SIKASSO": "23",
+            "undefined": "3,521",
+            "CERCLE DE SIKASSO": "3,521"
+        },
+        {
+            "REGION DE SIKASSO": "TOTAUX",
+            "CERCLE DE SIKASSO": "268,327",
+            "undefined": "268,327"
+        },
+        {
+            "REGION DE SIKASSO": "REGION DE SIKASSO",
+            "CERCLE DE SIKASSO": "CERCLE DE KADIOLO"
+        },
+        {
+            "REGION DE SIKASSO": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE SIKASSO": "Electeurs "
+        },
+        {
+            "REGION DE SIKASSO": "1",
+            "undefined": "1,993",
+            "CERCLE DE SIKASSO": "1,993"
+        },
+        {
+            "REGION DE SIKASSO": "2",
+            "undefined": "3,853",
+            "CERCLE DE SIKASSO": "3,853"
+        },
+        {
+            "REGION DE SIKASSO": "3",
+            "undefined": "20,178",
+            "CERCLE DE SIKASSO": "20,178"
+        },
+        {
+            "REGION DE SIKASSO": "4",
+            "undefined": "29,843",
+            "CERCLE DE SIKASSO": "29,843"
+        },
+        {
+            "REGION DE SIKASSO": "5",
+            "undefined": "4,564",
+            "CERCLE DE SIKASSO": "4,564"
+        },
+        {
+            "REGION DE SIKASSO": "6",
+            "undefined": "21,922",
+            "CERCLE DE SIKASSO": "21,922"
+        },
+        {
+            "REGION DE SIKASSO": "7",
+            "undefined": "14,380",
+            "CERCLE DE SIKASSO": "14,380"
+        },
+        {
+            "REGION DE SIKASSO": "8",
+            "undefined": "3,817",
+            "CERCLE DE SIKASSO": "3,817"
+        },
+        {
+            "REGION DE SIKASSO": "9",
+            "undefined": "17,454",
+            "CERCLE DE SIKASSO": "17,454"
+        },
+        {
+            "REGION DE SIKASSO": "TOTAUX",
+            "CERCLE DE SIKASSO": "118,004",
+            "undefined": "118,004"
+        },
+        {
+            "REGION DE SIKASSO": "REGION DE SIKASSO",
+            "CERCLE DE SIKASSO": "CERCLE DE KIGNAN"
+        },
+        {
+            "REGION DE SIKASSO": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE SIKASSO": "Electeurs "
+        },
+        {
+            "REGION DE SIKASSO": "1",
+            "undefined": "12,424",
+            "CERCLE DE SIKASSO": "12,424"
+        },
+        {
+            "REGION DE SIKASSO": "2",
+            "undefined": "5,857",
+            "CERCLE DE SIKASSO": "5,857"
+        },
+        {
+            "REGION DE SIKASSO": "3",
+            "undefined": "3,543",
+            "CERCLE DE SIKASSO": "3,543"
+        },
+        {
+            "REGION DE SIKASSO": "4",
+            "undefined": "6,074",
+            "CERCLE DE SIKASSO": "6,074"
+        },
+        {
+            "REGION DE SIKASSO": "5",
+            "undefined": "2,300",
+            "CERCLE DE SIKASSO": "2,300"
+        },
+        {
+            "REGION DE SIKASSO": "6",
+            "undefined": "4,181",
+            "CERCLE DE SIKASSO": "4,181"
+        },
+        {
+            "REGION DE SIKASSO": "7",
+            "undefined": "6,446",
+            "CERCLE DE SIKASSO": "6,446"
+        },
+        {
+            "REGION DE SIKASSO": "8",
+            "undefined": "4,972",
+            "CERCLE DE SIKASSO": "4,972"
+        },
+        {
+            "REGION DE SIKASSO": "9",
+            "undefined": "3,235",
+            "CERCLE DE SIKASSO": "3,235"
+        },
+        {
+            "REGION DE SIKASSO": "TOTAUX",
+            "CERCLE DE SIKASSO": "49,032",
+            "undefined": "49,032"
+        },
+        {
+            "REGION DE SIKASSO": "REGION DE SIKASSO",
+            "CERCLE DE SIKASSO": "CERCLE DE NIENA"
+        },
+        {
+            "REGION DE SIKASSO": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE SIKASSO": "Electeurs "
+        },
+        {
+            "REGION DE SIKASSO": "1",
+            "undefined": "2,983",
+            "CERCLE DE SIKASSO": "2,983"
+        },
+        {
+            "REGION DE SIKASSO": "2",
+            "undefined": "6,336",
+            "CERCLE DE SIKASSO": "6,336"
+        },
+        {
+            "REGION DE SIKASSO": "3",
+            "undefined": "5,575",
+            "CERCLE DE SIKASSO": "5,575"
+        },
+        {
+            "REGION DE SIKASSO": "4",
+            "undefined": "4,080",
+            "CERCLE DE SIKASSO": "4,080"
+        },
+        {
+            "REGION DE SIKASSO": "5",
+            "undefined": "2,326",
+            "CERCLE DE SIKASSO": "2,326"
+        },
+        {
+            "REGION DE SIKASSO": "6",
+            "undefined": "7,763",
+            "CERCLE DE SIKASSO": "7,763"
+        },
+        {
+            "REGION DE SIKASSO": "7",
+            "undefined": "1,638",
+            "CERCLE DE SIKASSO": "1,638"
+        },
+        {
+            "REGION DE SIKASSO": "8",
+            "undefined": "1,940",
+            "CERCLE DE SIKASSO": "1,940"
+        },
+        {
+            "REGION DE SIKASSO": "9",
+            "undefined": "18,497",
+            "CERCLE DE SIKASSO": "18,497"
+        },
+        {
+            "REGION DE SIKASSO": "10",
+            "undefined": "2,594",
+            "CERCLE DE SIKASSO": "2,594"
+        },
+        {
+            "REGION DE SIKASSO": "11",
+            "undefined": "2,999",
+            "CERCLE DE SIKASSO": "2,999"
+        },
+        {
+            "REGION DE SIKASSO": "TOTAUX",
+            "CERCLE DE SIKASSO": "56,731",
+            "undefined": "56,731"
+        },
+        {
+            "REGION DE SIKASSO": "TOTAL SIKASSO"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE SIKASSO": "MONTANT"
+        },
+        {
+            "undefined": "SIKASSO",
+            "CERCLE DE SIKASSO": "268,327"
+        },
+        {
+            "undefined": "KADIOLO",
+            "CERCLE DE SIKASSO": "118,004"
+        },
+        {
+            "undefined": "KIGNAN",
+            "CERCLE DE SIKASSO": "49,032"
+        },
+        {
+            "undefined": "NIENA",
+            "CERCLE DE SIKASSO": "56,731"
+        },
+        {
+            "undefined": "TOTAL",
+            "CERCLE DE SIKASSO": "492,094"
+        }
+    ],
+    "Ségou": [
+        {
+            "undefined": "CERCLE DE : SEGOU"
+        },
+        {
+            "undefined": "Bulletins de vote"
+        },
+        {
+            "undefined": "4,872"
+        },
+        {
+            "undefined": "3,223"
+        },
+        {
+            "undefined": "5,603"
+        },
+        {
+            "undefined": "15,048"
+        },
+        {
+            "undefined": "8,552"
+        },
+        {
+            "undefined": "5,942"
+        },
+        {
+            "undefined": "22,918"
+        },
+        {
+            "undefined": "4,844"
+        },
+        {
+            "undefined": "14,099"
+        },
+        {
+            "undefined": "6,236"
+        },
+        {
+            "undefined": "7,149"
+        },
+        {
+            "undefined": "12,298"
+        },
+        {
+            "undefined": "7,151"
+        },
+        {
+            "undefined": "15,791"
+        },
+        {
+            "undefined": "7,331"
+        },
+        {
+            "undefined": "26,418"
+        },
+        {
+            "undefined": "3,169"
+        },
+        {
+            "undefined": "5,595"
+        },
+        {
+            "undefined": "7,173"
+        },
+        {
+            "undefined": "33,242"
+        },
+        {
+            "undefined": "8,186"
+        },
+        {
+            "undefined": "3,189"
+        },
+        {
+            "undefined": "5,046"
+        },
+        {
+            "undefined": "13,574"
+        },
+        {
+            "undefined": "9,320"
+        },
+        {
+            "undefined": "84,416"
+        },
+        {
+            "undefined": "8,542"
+        },
+        {
+            "undefined": "1,671"
+        },
+        {
+            "undefined": "9,505"
+        },
+        {
+            "undefined": "5,709"
+        },
+        {
+            "undefined": "365,812"
+        },
+        {
+            "undefined": "CERCLE DE : MACINA"
+        },
+        {
+            "undefined": "Bulletins de vote"
+        },
+        {
+            "undefined": "6,781"
+        },
+        {
+            "undefined": "4,187"
+        },
+        {
+            "undefined": "8,500"
+        },
+        {
+            "undefined": "19,068"
+        },
+        {
+            "undefined": "18,645"
+        },
+        {
+            "undefined": "6,501"
+        },
+        {
+            "undefined": "13,116"
+        },
+        {
+            "undefined": "16,012"
+        },
+        {
+            "undefined": "10,083"
+        },
+        {
+            "undefined": "4,100"
+        },
+        {
+            "undefined": "3,799"
+        },
+        {
+            "undefined": "110,792"
+        },
+        {
+            "undefined": "CERCLE DE : BAROUELI"
+        },
+        {
+            "undefined": "Bulletins de vote"
+        },
+        {
+            "undefined": "21,033"
+        },
+        {
+            "undefined": "9,406"
+        },
+        {
+            "undefined": "3,884"
+        },
+        {
+            "undefined": "6,105"
+        },
+        {
+            "undefined": "8,095"
+        },
+        {
+            "undefined": "18,487"
+        },
+        {
+            "undefined": "2,740"
+        },
+        {
+            "undefined": "14,242"
+        },
+        {
+            "undefined": "3,212"
+        },
+        {
+            "undefined": "6,406"
+        },
+        {
+            "undefined": "2,846"
+        },
+        {
+            "undefined": "96,456"
+        },
+        {
+            "undefined": "CERCLE DE : NIONO"
+        },
+        {
+            "undefined": "Bulletins de vote"
+        },
+        {
+            "undefined": "16,891"
+        },
+        {
+            "undefined": "16,603"
+        },
+        {
+            "undefined": "10,556"
+        },
+        {
+            "undefined": "12,193"
+        },
+        {
+            "undefined": "5,859"
+        },
+        {
+            "undefined": "44,938"
+        },
+        {
+            "undefined": "8,156"
+        },
+        {
+            "undefined": "17,571"
+        },
+        {
+            "undefined": "20,782"
+        },
+        {
+            "undefined": "12,319"
+        },
+        {
+            "undefined": "14,245"
+        },
+        {
+            "undefined": "8,975"
+        },
+        {
+            "undefined": "189,088"
+        },
+        {
+            "undefined": "TOTAL SEGOU"
+        },
+        {
+            "undefined": "MONTANT"
+        },
+        {
+            "undefined": "365,812"
+        },
+        {
+            "undefined": "110,792"
+        },
+        {
+            "undefined": "96,456"
+        },
+        {
+            "undefined": "189,088"
+        },
+        {
+            "undefined": "762,148"
+        }
+    ],
+    "Mopti": [
+        {
+            "REGION DE : MOPTI": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE MOPTI": "Electeurs "
+        },
+        {
+            "REGION DE : MOPTI": "1",
+            "undefined": "1,521",
+            "CERCLE DE MOPTI": "1,521"
+        },
+        {
+            "REGION DE : MOPTI": "2",
+            "undefined": "4,458",
+            "CERCLE DE MOPTI": "4,458"
+        },
+        {
+            "REGION DE : MOPTI": "3",
+            "undefined": "14,634",
+            "CERCLE DE MOPTI": "14,634"
+        },
+        {
+            "REGION DE : MOPTI": "4",
+            "undefined": "7,618",
+            "CERCLE DE MOPTI": "7,618"
+        },
+        {
+            "REGION DE : MOPTI": "5",
+            "undefined": "20,451",
+            "CERCLE DE MOPTI": "20,451"
+        },
+        {
+            "REGION DE : MOPTI": "6",
+            "undefined": "14,486",
+            "CERCLE DE MOPTI": "14,486"
+        },
+        {
+            "REGION DE : MOPTI": "7",
+            "undefined": "3,666",
+            "CERCLE DE MOPTI": "3,666"
+        },
+        {
+            "REGION DE : MOPTI": "8",
+            "undefined": "8,078",
+            "CERCLE DE MOPTI": "8,078"
+        },
+        {
+            "REGION DE : MOPTI": "9",
+            "undefined": "81,164",
+            "CERCLE DE MOPTI": "81,164"
+        },
+        {
+            "REGION DE : MOPTI": "10",
+            "undefined": "1,376",
+            "CERCLE DE MOPTI": "1,376"
+        },
+        {
+            "REGION DE : MOPTI": "11",
+            "undefined": "7,894",
+            "CERCLE DE MOPTI": "7,894"
+        },
+        {
+            "REGION DE : MOPTI": "12",
+            "undefined": "2,943",
+            "CERCLE DE MOPTI": "2,943"
+        },
+        {
+            "REGION DE : MOPTI": "13",
+            "undefined": "11,547",
+            "CERCLE DE MOPTI": "11,547"
+        },
+        {
+            "REGION DE : MOPTI": "14",
+            "undefined": "24,505",
+            "CERCLE DE MOPTI": "24,505"
+        },
+        {
+            "REGION DE : MOPTI": "15",
+            "undefined": "10,535",
+            "CERCLE DE MOPTI": "10,535"
+        },
+        {
+            "REGION DE : MOPTI": "TOTAUX",
+            "CERCLE DE MOPTI": "214,876",
+            "undefined": "214,876"
+        },
+        {
+            "REGION DE : MOPTI": "REGION DE : MOPTI",
+            "CERCLE DE MOPTI": "CERCLE DE DJENNE"
+        },
+        {
+            "REGION DE : MOPTI": "N°",
+            "undefined": "Nre de  Bulletins",
+            "CERCLE DE MOPTI": "Electeurs  "
+        },
+        {
+            "REGION DE : MOPTI": "1",
+            "undefined": "5,658",
+            "CERCLE DE MOPTI": "5,658"
+        },
+        {
+            "REGION DE : MOPTI": "2",
+            "undefined": "3,824",
+            "CERCLE DE MOPTI": "3,824"
+        },
+        {
+            "REGION DE : MOPTI": "3",
+            "undefined": "17,521",
+            "CERCLE DE MOPTI": "17,521"
+        },
+        {
+            "REGION DE : MOPTI": "4",
+            "undefined": "14,982",
+            "CERCLE DE MOPTI": "14,982"
+        },
+        {
+            "REGION DE : MOPTI": "5",
+            "undefined": "8,246",
+            "CERCLE DE MOPTI": "8,246"
+        },
+        {
+            "REGION DE : MOPTI": "6",
+            "undefined": "14,154",
+            "CERCLE DE MOPTI": "14,154"
+        },
+        {
+            "REGION DE : MOPTI": "7",
+            "undefined": "5,760",
+            "CERCLE DE MOPTI": "5,760"
+        },
+        {
+            "REGION DE : MOPTI": "8",
+            "undefined": "23,089",
+            "CERCLE DE MOPTI": "23,089"
+        },
+        {
+            "REGION DE : MOPTI": "9",
+            "undefined": "2,671",
+            "CERCLE DE MOPTI": "2,671"
+        },
+        {
+            "REGION DE : MOPTI": "10",
+            "undefined": "6,622",
+            "CERCLE DE MOPTI": "6,622"
+        },
+        {
+            "REGION DE : MOPTI": "11",
+            "undefined": "5,513",
+            "CERCLE DE MOPTI": "5,513"
+        },
+        {
+            "REGION DE : MOPTI": "12",
+            "undefined": "4,305",
+            "CERCLE DE MOPTI": "4,305"
+        },
+        {
+            "REGION DE : MOPTI": "TOTAUX",
+            "CERCLE DE MOPTI": "112,345",
+            "undefined": "112,345"
+        },
+        {
+            "REGION DE : MOPTI": "REGION DE : MOPTI",
+            "CERCLE DE MOPTI": "CERCLE DE YOUWAROU"
+        },
+        {
+            "REGION DE : MOPTI": "N°",
+            "undefined": "Nre de  Bulletins",
+            "CERCLE DE MOPTI": "Electeurs  "
+        },
+        {
+            "REGION DE : MOPTI": "1",
+            "undefined": "4,564",
+            "CERCLE DE MOPTI": "4,564"
+        },
+        {
+            "REGION DE : MOPTI": "2",
+            "undefined": "7,234",
+            "CERCLE DE MOPTI": "7,234"
+        },
+        {
+            "REGION DE : MOPTI": "3",
+            "undefined": "3,621",
+            "CERCLE DE MOPTI": "3,621"
+        },
+        {
+            "REGION DE : MOPTI": "4",
+            "undefined": "5,222",
+            "CERCLE DE MOPTI": "5,222"
+        },
+        {
+            "REGION DE : MOPTI": "5",
+            "undefined": "6,343",
+            "CERCLE DE MOPTI": "6,343"
+        },
+        {
+            "REGION DE : MOPTI": "6",
+            "undefined": "9,523",
+            "CERCLE DE MOPTI": "9,523"
+        },
+        {
+            "REGION DE : MOPTI": "7",
+            "undefined": "12,537",
+            "CERCLE DE MOPTI": "12,537"
+        },
+        {
+            "REGION DE : MOPTI": "TOTAUX",
+            "CERCLE DE MOPTI": "49,044",
+            "undefined": "49,044"
+        },
+        {
+            "REGION DE : MOPTI": "REGION DE : MOPTI",
+            "CERCLE DE MOPTI": "CERCLE DE TENENKOU"
+        },
+        {
+            "REGION DE : MOPTI": "N°",
+            "undefined": "Nre de  Bulletins",
+            "CERCLE DE MOPTI": "Electeurs  "
+        },
+        {
+            "REGION DE : MOPTI": "1",
+            "undefined": "8,403",
+            "CERCLE DE MOPTI": "8,403"
+        },
+        {
+            "REGION DE : MOPTI": "2",
+            "undefined": "11,329",
+            "CERCLE DE MOPTI": "11,329"
+        },
+        {
+            "REGION DE : MOPTI": "3",
+            "undefined": "9,909",
+            "CERCLE DE MOPTI": "9,909"
+        },
+        {
+            "REGION DE : MOPTI": "4",
+            "undefined": "12,446",
+            "CERCLE DE MOPTI": "12,446"
+        },
+        {
+            "REGION DE : MOPTI": "5",
+            "undefined": "6,591",
+            "CERCLE DE MOPTI": "6,591"
+        },
+        {
+            "REGION DE : MOPTI": "6",
+            "undefined": "4,374",
+            "CERCLE DE MOPTI": "4,374"
+        },
+        {
+            "REGION DE : MOPTI": "7",
+            "undefined": "4,502",
+            "CERCLE DE MOPTI": "4,502"
+        },
+        {
+            "REGION DE : MOPTI": "8",
+            "undefined": "6,988",
+            "CERCLE DE MOPTI": "6,988"
+        },
+        {
+            "REGION DE : MOPTI": "9",
+            "undefined": "7,662",
+            "CERCLE DE MOPTI": "7,662"
+        },
+        {
+            "REGION DE : MOPTI": "10",
+            "undefined": "15,226",
+            "CERCLE DE MOPTI": "15,226"
+        },
+        {
+            "REGION DE : MOPTI": "TOTAUX",
+            "CERCLE DE MOPTI": "87,430",
+            "undefined": "87,430"
+        },
+        {
+            "REGION DE : MOPTI": "TOTAL MOPTI"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE MOPTI": "MONTANT"
+        },
+        {
+            "undefined": "MOPTI",
+            "CERCLE DE MOPTI": "214,876"
+        },
+        {
+            "undefined": "DJENNE",
+            "CERCLE DE MOPTI": "112,345"
+        },
+        {
+            "undefined": "YOUWAROU",
+            "CERCLE DE MOPTI": "49,044"
+        },
+        {
+            "undefined": "TENENKOU",
+            "CERCLE DE MOPTI": "87,430"
+        },
+        {
+            "undefined": "TOTAL",
+            "CERCLE DE MOPTI": "463,695"
+        }
+    ],
+    "Tbouctou": [
+        {
+            "undefined": "CERCLE DE TOMBOUCTOU"
+        },
+        {
+            "undefined": "Nbre de  Bulletins"
+        },
+        {
+            "undefined": "8,663"
+        },
+        {
+            "undefined": "5,636"
+        },
+        {
+            "undefined": "6,616"
+        },
+        {
+            "undefined": "30,034"
+        },
+        {
+            "undefined": "50,949"
+        },
+        {
+            "undefined": "CERCLE DE NIAFUNKE"
+        },
+        {
+            "undefined": "Nbre de  Bulletins"
+        },
+        {
+            "undefined": "9,237"
+        },
+        {
+            "undefined": "13,986"
+        },
+        {
+            "undefined": "6,821"
+        },
+        {
+            "undefined": "10,084"
+        },
+        {
+            "undefined": "19,980"
+        },
+        {
+            "undefined": "60,108"
+        },
+        {
+            "undefined": "CERCLE DE GOUNDAM"
+        },
+        {
+            "undefined": "Nbre de  Bulletins"
+        },
+        {
+            "undefined": "3,983"
+        },
+        {
+            "undefined": "9,040"
+        },
+        {
+            "undefined": "2,349"
+        },
+        {
+            "undefined": "6,718"
+        },
+        {
+            "undefined": "8,342"
+        },
+        {
+            "undefined": "3,246"
+        },
+        {
+            "undefined": "1,875"
+        },
+        {
+            "undefined": "4,313"
+        },
+        {
+            "undefined": "3,513"
+        },
+        {
+            "undefined": "20,257"
+        },
+        {
+            "undefined": "63,636"
+        },
+        {
+            "undefined": "CERCLE DE DIRE"
+        },
+        {
+            "undefined": "Nre de  Bulletins"
+        },
+        {
+            "undefined": "1,811"
+        },
+        {
+            "undefined": "2,756"
+        },
+        {
+            "undefined": "4,309"
+        },
+        {
+            "undefined": "6,591"
+        },
+        {
+            "undefined": "12,092"
+        },
+        {
+            "undefined": "3,261"
+        },
+        {
+            "undefined": "8,315"
+        },
+        {
+            "undefined": "3,681"
+        },
+        {
+            "undefined": "1,869"
+        },
+        {
+            "undefined": "10,699"
+        },
+        {
+            "undefined": "4,503"
+        },
+        {
+            "undefined": "3,559"
+        },
+        {
+            "undefined": "2,587"
+        },
+        {
+            "undefined": "66,033"
+        },
+        {
+            "undefined": "CERCLE DE BER"
+        },
+        {
+            "undefined": "Nre de  Bulletins"
+        },
+        {
+            "undefined": "12,582"
+        },
+        {
+            "undefined": "?"
+        },
+        {
+            "undefined": "?"
+        },
+        {
+            "undefined": "12,582"
+        },
+        {
+            "undefined": "CERCLE DE LERE"
+        },
+        {
+            "undefined": "Nre de  Bulletins"
+        },
+        {
+            "undefined": "2,325"
+        },
+        {
+            "undefined": "5,314"
+        },
+        {
+            "undefined": "10,297"
+        },
+        {
+            "undefined": "3,302"
+        },
+        {
+            "undefined": "5,330"
+        },
+        {
+            "undefined": "5,258"
+        },
+        {
+            "undefined": "1,362"
+        },
+        {
+            "undefined": "4,946"
+        },
+        {
+            "undefined": "8,484"
+        },
+        {
+            "undefined": "46,618"
+        },
+        {
+            "undefined": "TOTAL TOMBOUCTOU"
+        },
+        {
+            "undefined": "MONTANT"
+        },
+        {
+            "undefined": "50,949"
+        },
+        {
+            "undefined": "60,108"
+        },
+        {
+            "undefined": "63,636"
+        },
+        {
+            "undefined": "66,033"
+        },
+        {
+            "undefined": "12,582"
+        },
+        {
+            "undefined": "46,618"
+        },
+        {
+            "undefined": "299,926"
+        }
+    ],
+    "GAO": [
+        {
+            "REGION DE GAO ": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE BOUREM": "Electeurs  "
+        },
+        {
+            "REGION DE GAO ": "1",
+            "undefined": "11,476",
+            "CERCLE DE BOUREM": "11,476"
+        },
+        {
+            "REGION DE GAO ": "2",
+            "undefined": "11,920",
+            "CERCLE DE BOUREM": "11,920"
+        },
+        {
+            "REGION DE GAO ": "3",
+            "undefined": "9,970",
+            "CERCLE DE BOUREM": "9,970"
+        },
+        {
+            "REGION DE GAO ": "4",
+            "undefined": "16,320",
+            "CERCLE DE BOUREM": "16,320"
+        },
+        {
+            "undefined": "49,686",
+            "CERCLE DE BOUREM": "49,686"
+        },
+        {
+            "REGION DE GAO ": "REGON DE GAO",
+            "CERCLE DE BOUREM": "CERCLE D'ANSONGO"
+        },
+        {
+            "REGION DE GAO ": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE BOUREM": "Electeurs  "
+        },
+        {
+            "REGION DE GAO ": "1",
+            "undefined": "16,093",
+            "CERCLE DE BOUREM": "16,093"
+        },
+        {
+            "REGION DE GAO ": "2",
+            "undefined": "9,109",
+            "CERCLE DE BOUREM": "9,109"
+        },
+        {
+            "REGION DE GAO ": "3",
+            "undefined": "9,366",
+            "CERCLE DE BOUREM": "9,366"
+        },
+        {
+            "REGION DE GAO ": "4",
+            "undefined": "14,378",
+            "CERCLE DE BOUREM": "14,378"
+        },
+        {
+            "REGION DE GAO ": "5",
+            "undefined": "7,106",
+            "CERCLE DE BOUREM": "7,106"
+        },
+        {
+            "REGION DE GAO ": "6",
+            "undefined": "6,107",
+            "CERCLE DE BOUREM": "6,107"
+        },
+        {
+            "undefined": "62,159",
+            "CERCLE DE BOUREM": "62,159"
+        },
+        {
+            "REGION DE GAO ": "REGION DE GAO",
+            "undefined": "CERCLE DE GAO"
+        },
+        {
+            "REGION DE GAO ": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE BOUREM": "Electeurs  "
+        },
+        {
+            "REGION DE GAO ": "1",
+            "undefined": "12,931",
+            "CERCLE DE BOUREM": "12,931"
+        },
+        {
+            "REGION DE GAO ": "2",
+            "undefined": "16,319",
+            "CERCLE DE BOUREM": "16,319"
+        },
+        {
+            "REGION DE GAO ": "3",
+            "undefined": "8,797",
+            "CERCLE DE BOUREM": "8,797"
+        },
+        {
+            "REGION DE GAO ": "4",
+            "undefined": "22,676",
+            "CERCLE DE BOUREM": "22,676"
+        },
+        {
+            "REGION DE GAO ": "5",
+            "undefined": "45,163",
+            "CERCLE DE BOUREM": "45,163"
+        },
+        {
+            "undefined": "105,886",
+            "CERCLE DE BOUREM": "105,886"
+        },
+        {
+            "REGION DE GAO ": "REGION DE GAO",
+            "undefined": "CERCLE DE ERSANE"
+        },
+        {
+            "REGION DE GAO ": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE BOUREM": "Electeurs  "
+        },
+        {
+            "REGION DE GAO ": "1",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "2",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "3",
+            "undefined": "9,979",
+            "CERCLE DE BOUREM": "9,979"
+        },
+        {
+            "REGION DE GAO ": "4",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "undefined": "9,979",
+            "CERCLE DE BOUREM": "9,979"
+        },
+        {
+            "REGION DE GAO ": "REGION DE GAO",
+            "undefined": "CERCLE DE DJEBOCK"
+        },
+        {
+            "REGION DE GAO ": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE BOUREM": "Electeurs  "
+        },
+        {
+            "REGION DE GAO ": "1",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "2",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "3",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "4",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "5",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "6",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "REGION DE GAO",
+            "undefined": "CERCLE DE EL MOUSTARAT"
+        },
+        {
+            "REGION DE GAO ": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE BOUREM": "Electeurs  "
+        },
+        {
+            "REGION DE GAO ": "1",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "2",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "3",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "4",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "REGION DE GAO",
+            "undefined": "CERCLE DE: TALATAYE"
+        },
+        {
+            "REGION DE GAO ": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE BOUREM": "Electeurs  "
+        },
+        {
+            "REGION DE GAO ": "1",
+            "undefined": "10,762",
+            "CERCLE DE BOUREM": "10,762"
+        },
+        {
+            "REGION DE GAO ": "2",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "REGION DE GAO ": "3",
+            "undefined": "?",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "undefined": "10,762",
+            "CERCLE DE BOUREM": "10,762"
+        },
+        {
+            "REGION DE GAO ": "TOTAL GAO"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE BOUREM": "MONTANT"
+        },
+        {
+            "undefined": "BOUREM",
+            "CERCLE DE BOUREM": "49,686"
+        },
+        {
+            "undefined": "ANSONGO",
+            "CERCLE DE BOUREM": "62,159"
+        },
+        {
+            "undefined": "GAO",
+            "CERCLE DE BOUREM": "105,886"
+        },
+        {
+            "undefined": "ERSANE",
+            "CERCLE DE BOUREM": "9,979"
+        },
+        {
+            "undefined": "DJEBOCK",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "undefined": "AL MOUSTARAT",
+            "CERCLE DE BOUREM": "?"
+        },
+        {
+            "undefined": "TALATAYE",
+            "CERCLE DE BOUREM": "10,762"
+        },
+        {
+            "undefined": "TOTAL",
+            "CERCLE DE BOUREM": "238,472"
+        }
+    ],
+    "Kidal": [
+        {
+            "REGION DE : KIDAL": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE KIDAL": "Nbre BV"
+        },
+        {
+            "REGION DE : KIDAL": "1",
+            "undefined": "2,037",
+            "CERCLE DE KIDAL": "7"
+        },
+        {
+            "REGION DE : KIDAL": "2",
+            "undefined": "15,381",
+            "CERCLE DE KIDAL": "43"
+        },
+        {
+            "undefined": "17,418",
+            "CERCLE DE KIDAL": "50"
+        },
+        {
+            "REGION DE : KIDAL": "REGION DE : KIDAL",
+            "CERCLE DE KIDAL": "CERCLE DE TESSALIT"
+        },
+        {
+            "REGION DE : KIDAL": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE KIDAL": "Nbre BV"
+        },
+        {
+            "REGION DE : KIDAL": "1",
+            "undefined": "5,567",
+            "CERCLE DE KIDAL": "13"
+        },
+        {
+            "REGION DE : KIDAL": "2",
+            "undefined": "5,640",
+            "CERCLE DE KIDAL": "13"
+        },
+        {
+            "undefined": "11,207",
+            "CERCLE DE KIDAL": "26"
+        },
+        {
+            "REGION DE : KIDAL": "REGION DE : KIDAL",
+            "CERCLE DE KIDAL": "CERCLE D'ABEIBARA"
+        },
+        {
+            "REGION DE : KIDAL": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE KIDAL": "Nbre BV"
+        },
+        {
+            "REGION DE : KIDAL": "1",
+            "undefined": "2,099",
+            "CERCLE DE KIDAL": "6"
+        },
+        {
+            "REGION DE : KIDAL": "2",
+            "undefined": "851",
+            "CERCLE DE KIDAL": "2"
+        },
+        {
+            "REGION DE : KIDAL": "3",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "REGION DE : KIDAL": "4",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "REGION DE : KIDAL": "5",
+            "undefined": "988",
+            "CERCLE DE KIDAL": "3"
+        },
+        {
+            "undefined": "3,938",
+            "CERCLE DE KIDAL": "11"
+        },
+        {
+            "REGION DE : KIDAL": "REGION DE : KIDAL",
+            "CERCLE DE KIDAL": "CERCLE DE TIN-ESSAKO"
+        },
+        {
+            "REGION DE : KIDAL": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE KIDAL": "Nbre BV"
+        },
+        {
+            "REGION DE : KIDAL": "1",
+            "undefined": "1,118",
+            "CERCLE DE KIDAL": "4"
+        },
+        {
+            "REGION DE : KIDAL": "2",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "REGION DE : KIDAL": "3",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "undefined": "1,118",
+            "CERCLE DE KIDAL": "4"
+        },
+        {
+            "REGION DE : KIDAL": "REGION DE : KIDAL",
+            "CERCLE DE KIDAL": "CERCLE DE ACHIBOGHO"
+        },
+        {
+            "REGION DE : KIDAL": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE KIDAL": "Nbre BV"
+        },
+        {
+            "REGION DE : KIDAL": "1",
+            "undefined": "1,937",
+            "CERCLE DE KIDAL": "7"
+        },
+        {
+            "REGION DE : KIDAL": "2",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "REGION DE : KIDAL": "3",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "undefined": "1,937",
+            "CERCLE DE KIDAL": "7"
+        },
+        {
+            "REGION DE : KIDAL": "REGION DE : KIDAL",
+            "CERCLE DE KIDAL": "CERCLE DE ANEFIS"
+        },
+        {
+            "REGION DE : KIDAL": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE KIDAL": "Nbre BV"
+        },
+        {
+            "REGION DE : KIDAL": "1",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "REGION DE : KIDAL": "2",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "REGION DE : KIDAL": "3",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "REGION DE : KIDAL": "4",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "REGION DE : KIDAL": "REGION DE : KIDAL",
+            "CERCLE DE KIDAL": "CERCLE DE ESSOUK"
+        },
+        {
+            "REGION DE : KIDAL": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE KIDAL": "Nbre BV"
+        },
+        {
+            "REGION DE : KIDAL": "1",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "REGION DE : KIDAL": "2",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "REGION DE : KIDAL": "3",
+            "undefined": "1,412",
+            "CERCLE DE KIDAL": "10"
+        },
+        {
+            "undefined": "1,412",
+            "CERCLE DE KIDAL": "10"
+        },
+        {
+            "REGION DE : KIDAL": "REGION DE : KIDAL",
+            "CERCLE DE KIDAL": "CERCLE DE TIMETRINE"
+        },
+        {
+            "REGION DE : KIDAL": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE KIDAL": "Nbre BV"
+        },
+        {
+            "REGION DE : KIDAL": "1",
+            "undefined": "1,295",
+            "CERCLE DE KIDAL": "4"
+        },
+        {
+            "REGION DE : KIDAL": "2",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "REGION DE : KIDAL": "3",
+            "undefined": "?",
+            "CERCLE DE KIDAL": "?"
+        },
+        {
+            "undefined": "1,295",
+            "CERCLE DE KIDAL": "4"
+        },
+        {
+            "REGION DE : KIDAL": "TOTAL KIDAL"
+        },
+        {
+            "undefined": "MONTANT"
+        },
+        {
+            "undefined": "17,418"
+        },
+        {
+            "undefined": "11,207"
+        },
+        {
+            "undefined": "3,938"
+        },
+        {
+            "undefined": "1,118"
+        },
+        {
+            "undefined": "1,937"
+        },
+        {
+            "undefined": "?"
+        },
+        {
+            "undefined": "1,412"
+        },
+        {
+            "undefined": "1,295"
+        },
+        {
+            "undefined": "38,325"
+        }
+    ],
+    "taoudenit": [
+        {
+            "REGION DE : TAOUDENIT": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE ACHOURATT": "Nbre BV"
+        },
+        {
+            "REGION DE : TAOUDENIT": "1",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "2",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "3",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "4",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "5",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "REGION DE : TAOUDENIT",
+            "CERCLE DE ACHOURATT": "CERCLE DE AL-OURCHE"
+        },
+        {
+            "REGION DE : TAOUDENIT": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE ACHOURATT": "Nbre BV"
+        },
+        {
+            "REGION DE : TAOUDENIT": "1",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "2",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "3",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "4",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "5",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "6",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "7",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "REGION DE : TAOUDENIT",
+            "CERCLE DE ACHOURATT": "CERCLE DE ARAOUANE"
+        },
+        {
+            "REGION DE : TAOUDENIT": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE ACHOURATT": "Nbre BV"
+        },
+        {
+            "REGION DE : TAOUDENIT": "1",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "2",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "3",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "4",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "5",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "REGION DE : TAOUDENIT",
+            "CERCLE DE ACHOURATT": "CERCLE DE BOUJBEHA"
+        },
+        {
+            "REGION DE : TAOUDENIT": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE ACHOURATT": "Nbre BV"
+        },
+        {
+            "REGION DE : TAOUDENIT": "1",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "2",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "3",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "4",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "5",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "REGION DE : TAOUDENIT",
+            "CERCLE DE ACHOURATT": "CERCLE DE FOUM-ELBA"
+        },
+        {
+            "REGION DE : TAOUDENIT": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE ACHOURATT": "Nbre BV"
+        },
+        {
+            "REGION DE : TAOUDENIT": "1",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "2",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "3",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "REGION DE : TAOUDENIT",
+            "CERCLE DE ACHOURATT": "CERCLE DE TAOUDENIT"
+        },
+        {
+            "REGION DE : TAOUDENIT": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE ACHOURATT": "Nbre BV"
+        },
+        {
+            "REGION DE : TAOUDENIT": "1",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "2",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "3",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "4",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "5",
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "undefined": "?",
+            "CERCLE DE ACHOURATT": "?"
+        },
+        {
+            "REGION DE : TAOUDENIT": "TOTAL TAOUDENIT"
+        },
+        {
+            "undefined": "MONTANT"
+        },
+        {
+            "undefined": "?"
+        },
+        {
+            "undefined": "?"
+        },
+        {
+            "undefined": "?"
+        },
+        {
+            "undefined": "?"
+        },
+        {
+            "undefined": "?"
+        },
+        {
+            "undefined": "?"
+        },
+        {
+            "undefined": "0"
+        }
+    ],
+    "MENAKA": [
+        {
+            "REGION DE MENAKA": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE ANDERAMBOUKANE": "Electeurs  "
+        },
+        {
+            "REGION DE MENAKA": "1",
+            "undefined": "11,637",
+            "CERCLE DE ANDERAMBOUKANE": "11,637"
+        },
+        {
+            "REGION DE MENAKA": "2",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "3",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "4",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "undefined": "11,637",
+            "CERCLE DE ANDERAMBOUKANE": "11,637"
+        },
+        {
+            "REGION DE MENAKA": "REGION DE MENAKA",
+            "CERCLE DE ANDERAMBOUKANE": "CERCLE DE INEKAR"
+        },
+        {
+            "REGION DE MENAKA": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE ANDERAMBOUKANE": "Electeurs  "
+        },
+        {
+            "REGION DE MENAKA": "1",
+            "undefined": "7,378",
+            "CERCLE DE ANDERAMBOUKANE": "7,378"
+        },
+        {
+            "REGION DE MENAKA": "2",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "3",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "4",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "undefined": "7,378",
+            "CERCLE DE ANDERAMBOUKANE": "7,378"
+        },
+        {
+            "REGION DE MENAKA": "REGION DE MENAKA",
+            "CERCLE DE ANDERAMBOUKANE": "CERCLE DE MENAKA"
+        },
+        {
+            "REGION DE MENAKA": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE ANDERAMBOUKANE": "Electeurs  "
+        },
+        {
+            "REGION DE MENAKA": "1",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "2",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "3",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "4",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "5",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "6",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "7",
+            "undefined": "21,387",
+            "CERCLE DE ANDERAMBOUKANE": "21,387"
+        },
+        {
+            "undefined": "21,387",
+            "CERCLE DE ANDERAMBOUKANE": "21,387"
+        },
+        {
+            "REGION DE MENAKA": "REGION DE MENAKA",
+            "CERCLE DE ANDERAMBOUKANE": "CERCLE DE TIDERMENE"
+        },
+        {
+            "REGION DE MENAKA": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE ANDERAMBOUKANE": "Electeurs  "
+        },
+        {
+            "REGION DE MENAKA": "1",
+            "undefined": "4,106",
+            "CERCLE DE ANDERAMBOUKANE": "4,106"
+        },
+        {
+            "REGION DE MENAKA": "2",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "3",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "4",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "5",
+            "undefined": "?",
+            "CERCLE DE ANDERAMBOUKANE": "?"
+        },
+        {
+            "REGION DE MENAKA": "6",
+            "undefined": "6,296",
+            "CERCLE DE ANDERAMBOUKANE": "6,296"
+        },
+        {
+            "undefined": "10,402",
+            "CERCLE DE ANDERAMBOUKANE": "10,402"
+        },
+        {
+            "REGION DE MENAKA": "TOTAL MENAKA"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE ANDERAMBOUKANE": "MONTANT"
+        },
+        {
+            "undefined": "ANDERAMBOUKANE",
+            "CERCLE DE ANDERAMBOUKANE": "11,637"
+        },
+        {
+            "undefined": "INEKAR",
+            "CERCLE DE ANDERAMBOUKANE": "7,378"
+        },
+        {
+            "undefined": "MENAKA",
+            "CERCLE DE ANDERAMBOUKANE": "21,387"
+        },
+        {
+            "undefined": "TIDERMENE",
+            "CERCLE DE ANDERAMBOUKANE": "10,402"
+        },
+        {
+            "undefined": "TOTAL",
+            "CERCLE DE ANDERAMBOUKANE": "50,804"
+        }
+    ],
+    "bougouni": [
+        {
+            "REGION DE BOUGOUNI": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BOUGOUNI": "Electeurs "
+        },
+        {
+            "REGION DE BOUGOUNI": "1",
+            "undefined": "34,828",
+            "CERCLE DE BOUGOUNI": "34,828"
+        },
+        {
+            "REGION DE BOUGOUNI": "2",
+            "undefined": "5,636",
+            "CERCLE DE BOUGOUNI": "5,636"
+        },
+        {
+            "REGION DE BOUGOUNI": "3",
+            "undefined": "15,134",
+            "CERCLE DE BOUGOUNI": "15,134"
+        },
+        {
+            "REGION DE BOUGOUNI": "4",
+            "undefined": "1,090",
+            "CERCLE DE BOUGOUNI": "1,090"
+        },
+        {
+            "REGION DE BOUGOUNI": "5",
+            "undefined": "4,707",
+            "CERCLE DE BOUGOUNI": "4,707"
+        },
+        {
+            "REGION DE BOUGOUNI": "6",
+            "undefined": "9,970",
+            "CERCLE DE BOUGOUNI": "9,970"
+        },
+        {
+            "REGION DE BOUGOUNI": "7",
+            "undefined": "2,890",
+            "CERCLE DE BOUGOUNI": "2,890"
+        },
+        {
+            "REGION DE BOUGOUNI": "8",
+            "undefined": "2,452",
+            "CERCLE DE BOUGOUNI": "2,452"
+        },
+        {
+            "REGION DE BOUGOUNI": "9",
+            "undefined": "2,571",
+            "CERCLE DE BOUGOUNI": "2,571"
+        },
+        {
+            "REGION DE BOUGOUNI": "10",
+            "undefined": "6,002",
+            "CERCLE DE BOUGOUNI": "6,002"
+        },
+        {
+            "REGION DE BOUGOUNI": "11",
+            "undefined": "2,662",
+            "CERCLE DE BOUGOUNI": "2,662"
+        },
+        {
+            "REGION DE BOUGOUNI": "12",
+            "undefined": "9,160",
+            "CERCLE DE BOUGOUNI": "9,160"
+        },
+        {
+            "REGION DE BOUGOUNI": "13",
+            "undefined": "4,601",
+            "CERCLE DE BOUGOUNI": "4,601"
+        },
+        {
+            "REGION DE BOUGOUNI": "14",
+            "undefined": "7,805",
+            "CERCLE DE BOUGOUNI": "7,805"
+        },
+        {
+            "REGION DE BOUGOUNI": "15",
+            "undefined": "17,668",
+            "CERCLE DE BOUGOUNI": "17,668"
+        },
+        {
+            "REGION DE BOUGOUNI": "TOTAL",
+            "CERCLE DE BOUGOUNI": "127,176",
+            "undefined": "127,176"
+        },
+        {
+            "REGION DE BOUGOUNI": "REGION DE BOUGOUNI",
+            "CERCLE DE BOUGOUNI": "CERCLE DE GARALO"
+        },
+        {
+            "REGION DE BOUGOUNI": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BOUGOUNI": "Electeurs "
+        },
+        {
+            "REGION DE BOUGOUNI": "1",
+            "undefined": "2,560",
+            "CERCLE DE BOUGOUNI": "2,560"
+        },
+        {
+            "REGION DE BOUGOUNI": "2",
+            "undefined": "3,587",
+            "CERCLE DE BOUGOUNI": "3,587"
+        },
+        {
+            "REGION DE BOUGOUNI": "3",
+            "undefined": "14,748",
+            "CERCLE DE BOUGOUNI": "14,748"
+        },
+        {
+            "REGION DE BOUGOUNI": "4",
+            "undefined": "16,222",
+            "CERCLE DE BOUGOUNI": "16,222"
+        },
+        {
+            "REGION DE BOUGOUNI": "5",
+            "undefined": "4,451",
+            "CERCLE DE BOUGOUNI": "4,451"
+        },
+        {
+            "REGION DE BOUGOUNI": "6",
+            "undefined": "4,650",
+            "CERCLE DE BOUGOUNI": "4,650"
+        },
+        {
+            "REGION DE BOUGOUNI": "TOTAL",
+            "CERCLE DE BOUGOUNI": "46,218",
+            "undefined": "46,218"
+        },
+        {
+            "REGION DE BOUGOUNI": "REGION DE BOUGOUNI",
+            "CERCLE DE BOUGOUNI": "CERCLE DE KOLONDIEBA"
+        },
+        {
+            "REGION DE BOUGOUNI": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BOUGOUNI": "Electeurs "
+        },
+        {
+            "REGION DE BOUGOUNI": "1",
+            "undefined": "3,366",
+            "CERCLE DE BOUGOUNI": "3,366"
+        },
+        {
+            "REGION DE BOUGOUNI": "2",
+            "undefined": "11,552",
+            "CERCLE DE BOUGOUNI": "11,552"
+        },
+        {
+            "REGION DE BOUGOUNI": "3",
+            "undefined": "6,673",
+            "CERCLE DE BOUGOUNI": "6,673"
+        },
+        {
+            "REGION DE BOUGOUNI": "4",
+            "undefined": "10,177",
+            "CERCLE DE BOUGOUNI": "10,177"
+        },
+        {
+            "REGION DE BOUGOUNI": "5",
+            "undefined": "15,445",
+            "CERCLE DE BOUGOUNI": "15,445"
+        },
+        {
+            "REGION DE BOUGOUNI": "6",
+            "undefined": "27,843",
+            "CERCLE DE BOUGOUNI": "27,843"
+        },
+        {
+            "REGION DE BOUGOUNI": "7",
+            "undefined": "3,232",
+            "CERCLE DE BOUGOUNI": "3,232"
+        },
+        {
+            "REGION DE BOUGOUNI": "8",
+            "undefined": "3,222",
+            "CERCLE DE BOUGOUNI": "3,222"
+        },
+        {
+            "REGION DE BOUGOUNI": "9",
+            "undefined": "3,357",
+            "CERCLE DE BOUGOUNI": "3,357"
+        },
+        {
+            "REGION DE BOUGOUNI": "10",
+            "undefined": "6,345",
+            "CERCLE DE BOUGOUNI": "6,345"
+        },
+        {
+            "REGION DE BOUGOUNI": "11",
+            "undefined": "5,267",
+            "CERCLE DE BOUGOUNI": "5,267"
+        },
+        {
+            "REGION DE BOUGOUNI": "12",
+            "undefined": "3,162",
+            "CERCLE DE BOUGOUNI": "3,162"
+        },
+        {
+            "REGION DE BOUGOUNI": "TOTAUX",
+            "CERCLE DE BOUGOUNI": "99,641",
+            "undefined": "99,641"
+        },
+        {
+            "undefined": "CERCLE DE KOUMANTOU"
+        },
+        {
+            "REGION DE BOUGOUNI": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BOUGOUNI": "Electeurs "
+        },
+        {
+            "REGION DE BOUGOUNI": "1",
+            "undefined": "24,888",
+            "CERCLE DE BOUGOUNI": "24,888"
+        },
+        {
+            "REGION DE BOUGOUNI": "2",
+            "undefined": "3,416",
+            "CERCLE DE BOUGOUNI": "3,416"
+        },
+        {
+            "REGION DE BOUGOUNI": "3",
+            "undefined": "6,058",
+            "CERCLE DE BOUGOUNI": "6,058"
+        },
+        {
+            "REGION DE BOUGOUNI": "4",
+            "undefined": "9,388",
+            "CERCLE DE BOUGOUNI": "9,388"
+        },
+        {
+            "REGION DE BOUGOUNI": "5",
+            "undefined": "5,137",
+            "CERCLE DE BOUGOUNI": "5,137"
+        },
+        {
+            "REGION DE BOUGOUNI": "TOTAL",
+            "CERCLE DE BOUGOUNI": "48,887",
+            "undefined": "48,887"
+        },
+        {
+            "undefined": "CERCLE DE OUELESSEBOUGOU"
+        },
+        {
+            "REGION DE BOUGOUNI": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BOUGOUNI": "Electeurs "
+        },
+        {
+            "REGION DE BOUGOUNI": "1",
+            "undefined": "22,498",
+            "CERCLE DE BOUGOUNI": "22,498"
+        },
+        {
+            "REGION DE BOUGOUNI": "2",
+            "undefined": "4,973",
+            "CERCLE DE BOUGOUNI": "4,973"
+        },
+        {
+            "REGION DE BOUGOUNI": "3",
+            "undefined": "12,181",
+            "CERCLE DE BOUGOUNI": "12,181"
+        },
+        {
+            "REGION DE BOUGOUNI": "4",
+            "undefined": "7,769",
+            "CERCLE DE BOUGOUNI": "7,769"
+        },
+        {
+            "REGION DE BOUGOUNI": "TOTAL",
+            "CERCLE DE BOUGOUNI": "47,421",
+            "undefined": "47,421"
+        },
+        {
+            "REGION DE BOUGOUNI": "REGION DE BOUGOUNI",
+            "CERCLE DE BOUGOUNI": "CERCLE DE YANFOLILA"
+        },
+        {
+            "REGION DE BOUGOUNI": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BOUGOUNI": "Electeurs "
+        },
+        {
+            "REGION DE BOUGOUNI": "1",
+            "undefined": "2,100",
+            "CERCLE DE BOUGOUNI": "2,100"
+        },
+        {
+            "REGION DE BOUGOUNI": "2",
+            "undefined": "4,933",
+            "CERCLE DE BOUGOUNI": "4,933"
+        },
+        {
+            "REGION DE BOUGOUNI": "3",
+            "undefined": "3,040",
+            "CERCLE DE BOUGOUNI": "3,040"
+        },
+        {
+            "REGION DE BOUGOUNI": "4",
+            "undefined": "12,303",
+            "CERCLE DE BOUGOUNI": "12,303"
+        },
+        {
+            "REGION DE BOUGOUNI": "5",
+            "undefined": "13,725",
+            "CERCLE DE BOUGOUNI": "13,725"
+        },
+        {
+            "REGION DE BOUGOUNI": "6",
+            "undefined": "5,082",
+            "CERCLE DE BOUGOUNI": "5,082"
+        },
+        {
+            "REGION DE BOUGOUNI": "7",
+            "undefined": "3,747",
+            "CERCLE DE BOUGOUNI": "3,747"
+        },
+        {
+            "REGION DE BOUGOUNI": "8",
+            "undefined": "9,436",
+            "CERCLE DE BOUGOUNI": "9,436"
+        },
+        {
+            "REGION DE BOUGOUNI": "9",
+            "undefined": "26,805",
+            "CERCLE DE BOUGOUNI": "26,805"
+        },
+        {
+            "REGION DE BOUGOUNI": "10",
+            "undefined": "5,842",
+            "CERCLE DE BOUGOUNI": "5,842"
+        },
+        {
+            "REGION DE BOUGOUNI": "TOTAL",
+            "CERCLE DE BOUGOUNI": "87,013",
+            "undefined": "87,013"
+        },
+        {
+            "REGION DE BOUGOUNI": "TOTAL BOUGOUNI"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE BOUGOUNI": "MONTANT"
+        },
+        {
+            "undefined": "BOUGOUNI",
+            "CERCLE DE BOUGOUNI": "127,176"
+        },
+        {
+            "undefined": "GARALO",
+            "CERCLE DE BOUGOUNI": "46,218"
+        },
+        {
+            "undefined": "KOLONDIEBA",
+            "CERCLE DE BOUGOUNI": "99,641"
+        },
+        {
+            "undefined": "KOUMANTOU",
+            "CERCLE DE BOUGOUNI": "48,887"
+        },
+        {
+            "undefined": "OUELESSEBOUGOU",
+            "CERCLE DE BOUGOUNI": "47,421"
+        },
+        {
+            "undefined": "YANFOLILA",
+            "CERCLE DE BOUGOUNI": "87,013"
+        },
+        {
+            "undefined": "TOTAL",
+            "CERCLE DE BOUGOUNI": "456,356"
+        }
+    ],
+    "DIOILA": [
+        {
+            "REGION DE : DIOILA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BANCO": "Electeurs "
+        },
+        {
+            "REGION DE : DIOILA": "1",
+            "undefined": "15,324",
+            "CERCLE DE BANCO": "15,324"
+        },
+        {
+            "REGION DE : DIOILA": "2",
+            "undefined": "?",
+            "CERCLE DE BANCO": "?"
+        },
+        {
+            "REGION DE : DIOILA": "3",
+            "undefined": "8,943",
+            "CERCLE DE BANCO": "8,943"
+        },
+        {
+            "REGION DE : DIOILA": "TOTAL",
+            "CERCLE DE BANCO": "24,267",
+            "undefined": "24,267"
+        },
+        {
+            "REGION DE : DIOILA": "REGION DE : DIOILA",
+            "CERCLE DE BANCO": "CERCLE DE BELECO"
+        },
+        {
+            "REGION DE : DIOILA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BANCO": "Electeurs "
+        },
+        {
+            "REGION DE : DIOILA": "1",
+            "undefined": "4,121",
+            "CERCLE DE BANCO": "4,121"
+        },
+        {
+            "REGION DE : DIOILA": "2",
+            "undefined": "4,505",
+            "CERCLE DE BANCO": "4,505"
+        },
+        {
+            "REGION DE : DIOILA": "3",
+            "undefined": "18,530",
+            "CERCLE DE BANCO": "18,530"
+        },
+        {
+            "REGION DE : DIOILA": "4",
+            "undefined": "6,173",
+            "CERCLE DE BANCO": "6,173"
+        },
+        {
+            "REGION DE : DIOILA": "5",
+            "undefined": "3,285",
+            "CERCLE DE BANCO": "3,285"
+        },
+        {
+            "REGION DE : DIOILA": "6",
+            "undefined": "9,984",
+            "CERCLE DE BANCO": "9,984"
+        },
+        {
+            "REGION DE : DIOILA": "TOTAL",
+            "CERCLE DE BANCO": "46,598",
+            "undefined": "46,598"
+        },
+        {
+            "REGION DE : DIOILA": "REGION DE : DIOILA",
+            "CERCLE DE BANCO": "CERCLE DE DIOILA"
+        },
+        {
+            "REGION DE : DIOILA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BANCO": "Electeurs "
+        },
+        {
+            "REGION DE : DIOILA": "1",
+            "undefined": "5,009",
+            "CERCLE DE BANCO": "5,009"
+        },
+        {
+            "REGION DE : DIOILA": "2",
+            "undefined": "19,823",
+            "CERCLE DE BANCO": "19,823"
+        },
+        {
+            "REGION DE : DIOILA": "3",
+            "undefined": "10,477",
+            "CERCLE DE BANCO": "10,477"
+        },
+        {
+            "REGION DE : DIOILA": "4",
+            "undefined": "8,702",
+            "CERCLE DE BANCO": "8,702"
+        },
+        {
+            "REGION DE : DIOILA": "5",
+            "undefined": "6,554",
+            "CERCLE DE BANCO": "6,554"
+        },
+        {
+            "REGION DE : DIOILA": "6",
+            "undefined": "6,099",
+            "CERCLE DE BANCO": "6,099"
+        },
+        {
+            "REGION DE : DIOILA": "TOTAL",
+            "CERCLE DE BANCO": "56,664",
+            "undefined": "56,664"
+        },
+        {
+            "REGION DE : DIOILA": "REGION DE : DIOILA",
+            "CERCLE DE BANCO": "CERCLE DE FANA"
+        },
+        {
+            "REGION DE : DIOILA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BANCO": "Electeurs "
+        },
+        {
+            "REGION DE : DIOILA": "1",
+            "undefined": "8,351",
+            "CERCLE DE BANCO": "8,351"
+        },
+        {
+            "REGION DE : DIOILA": "2",
+            "undefined": "22,313",
+            "CERCLE DE BANCO": "22,313"
+        },
+        {
+            "REGION DE : DIOILA": "3",
+            "undefined": "5,712",
+            "CERCLE DE BANCO": "5,712"
+        },
+        {
+            "REGION DE : DIOILA": "4",
+            "undefined": "8,702",
+            "CERCLE DE BANCO": "8,702"
+        },
+        {
+            "REGION DE : DIOILA": "5",
+            "undefined": "6,398",
+            "CERCLE DE BANCO": "6,398"
+        },
+        {
+            "REGION DE : DIOILA": "6",
+            "undefined": "7,435",
+            "CERCLE DE BANCO": "7,435"
+        },
+        {
+            "REGION DE : DIOILA": "7",
+            "undefined": "8,209",
+            "CERCLE DE BANCO": "8,209"
+        },
+        {
+            "REGION DE : DIOILA": "TOTAL",
+            "CERCLE DE BANCO": "67,120",
+            "undefined": "67,120"
+        },
+        {
+            "REGION DE : DIOILA": "REGION DE : DIOILA",
+            "CERCLE DE BANCO": "CERCLE DE MASSIGUI"
+        },
+        {
+            "REGION DE : DIOILA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BANCO": "Electeurs "
+        },
+        {
+            "REGION DE : DIOILA": "1",
+            "undefined": "21,810",
+            "CERCLE DE BANCO": "21,810"
+        },
+        {
+            "REGION DE : DIOILA": "2",
+            "undefined": "6,514",
+            "CERCLE DE BANCO": "6,514"
+        },
+        {
+            "REGION DE : DIOILA": "TOTAL",
+            "CERCLE DE BANCO": "28,324",
+            "undefined": "28,324"
+        },
+        {
+            "REGION DE : DIOILA": "TOTAL DIOILA"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE BANCO": "MONTANT"
+        },
+        {
+            "undefined": "BANCO",
+            "CERCLE DE BANCO": "24,267"
+        },
+        {
+            "undefined": "BELECO",
+            "CERCLE DE BANCO": "46,598"
+        },
+        {
+            "undefined": "DIOILA",
+            "CERCLE DE BANCO": "56,664"
+        },
+        {
+            "undefined": "FANA",
+            "CERCLE DE BANCO": "67,120"
+        },
+        {
+            "undefined": "MASSIGUI",
+            "CERCLE DE BANCO": "28,324"
+        },
+        {
+            "undefined": "TOTAL",
+            "CERCLE DE BANCO": "222,973"
+        }
+    ],
+    "koutiala": [
+        {
+            "REGION DE KOUTIALA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE KOUTIALA": "Electeurs "
+        },
+        {
+            "REGION DE KOUTIALA": "1",
+            "undefined": "3,315",
+            "CERCLE DE KOUTIALA": "3,315"
+        },
+        {
+            "REGION DE KOUTIALA": "2",
+            "undefined": "4,814",
+            "CERCLE DE KOUTIALA": "4,814"
+        },
+        {
+            "REGION DE KOUTIALA": "3",
+            "undefined": "5,150",
+            "CERCLE DE KOUTIALA": "5,150"
+        },
+        {
+            "REGION DE KOUTIALA": "4",
+            "undefined": "3,635",
+            "CERCLE DE KOUTIALA": "3,635"
+        },
+        {
+            "REGION DE KOUTIALA": "5",
+            "undefined": "5,667",
+            "CERCLE DE KOUTIALA": "5,667"
+        },
+        {
+            "REGION DE KOUTIALA": "6",
+            "undefined": "4,249",
+            "CERCLE DE KOUTIALA": "4,249"
+        },
+        {
+            "REGION DE KOUTIALA": "7",
+            "undefined": "10,268",
+            "CERCLE DE KOUTIALA": "10,268"
+        },
+        {
+            "REGION DE KOUTIALA": "8",
+            "undefined": "6,675",
+            "CERCLE DE KOUTIALA": "6,675"
+        },
+        {
+            "REGION DE KOUTIALA": "9",
+            "undefined": "8,429",
+            "CERCLE DE KOUTIALA": "8,429"
+        },
+        {
+            "REGION DE KOUTIALA": "10",
+            "undefined": "13,422",
+            "CERCLE DE KOUTIALA": "13,422"
+        },
+        {
+            "REGION DE KOUTIALA": "11",
+            "undefined": "5,680",
+            "CERCLE DE KOUTIALA": "5,680"
+        },
+        {
+            "REGION DE KOUTIALA": "12",
+            "undefined": "2,095",
+            "CERCLE DE KOUTIALA": "2,095"
+        },
+        {
+            "REGION DE KOUTIALA": "13",
+            "undefined": "83,868",
+            "CERCLE DE KOUTIALA": "83,868"
+        },
+        {
+            "REGION DE KOUTIALA": "14",
+            "undefined": "4,070",
+            "CERCLE DE KOUTIALA": "4,070"
+        },
+        {
+            "REGION DE KOUTIALA": "15",
+            "undefined": "8,458",
+            "CERCLE DE KOUTIALA": "8,458"
+        },
+        {
+            "REGION DE KOUTIALA": "16",
+            "undefined": "7,049",
+            "CERCLE DE KOUTIALA": "7,049"
+        },
+        {
+            "REGION DE KOUTIALA": "17",
+            "undefined": "4,837",
+            "CERCLE DE KOUTIALA": "4,837"
+        },
+        {
+            "REGION DE KOUTIALA": "18",
+            "undefined": "3,280",
+            "CERCLE DE KOUTIALA": "3,280"
+        },
+        {
+            "REGION DE KOUTIALA": "19",
+            "undefined": "2,996",
+            "CERCLE DE KOUTIALA": "2,996"
+        },
+        {
+            "REGION DE KOUTIALA": "20",
+            "undefined": "10,019",
+            "CERCLE DE KOUTIALA": "10,019"
+        },
+        {
+            "REGION DE KOUTIALA": "21",
+            "undefined": "5,853",
+            "CERCLE DE KOUTIALA": "5,853"
+        },
+        {
+            "REGION DE KOUTIALA": "22",
+            "undefined": "7,371",
+            "CERCLE DE KOUTIALA": "7,371"
+        },
+        {
+            "REGION DE KOUTIALA": "23",
+            "undefined": "3,955",
+            "CERCLE DE KOUTIALA": "3,955"
+        },
+        {
+            "REGION DE KOUTIALA": "24",
+            "undefined": "4,057",
+            "CERCLE DE KOUTIALA": "4,057"
+        },
+        {
+            "REGION DE KOUTIALA": "25",
+            "undefined": "2,604",
+            "CERCLE DE KOUTIALA": "2,604"
+        },
+        {
+            "REGION DE KOUTIALA": "26",
+            "undefined": "6,197",
+            "CERCLE DE KOUTIALA": "6,197"
+        },
+        {
+            "REGION DE KOUTIALA": "27",
+            "undefined": "9,368",
+            "CERCLE DE KOUTIALA": "9,368"
+        },
+        {
+            "REGION DE KOUTIALA": "28",
+            "undefined": "10,860",
+            "CERCLE DE KOUTIALA": "10,860"
+        },
+        {
+            "REGION DE KOUTIALA": "29",
+            "undefined": "9,416",
+            "CERCLE DE KOUTIALA": "9,416"
+        },
+        {
+            "REGION DE KOUTIALA": "TOTAL",
+            "CERCLE DE KOUTIALA": "257,657",
+            "undefined": "257,657"
+        },
+        {
+            "REGION DE KOUTIALA": "REGION DE KOUTIALA",
+            "CERCLE DE KOUTIALA": "CERCLE DE M'PESSOBA"
+        },
+        {
+            "REGION DE KOUTIALA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE KOUTIALA": "Electeurs "
+        },
+        {
+            "REGION DE KOUTIALA": "1",
+            "undefined": "5,288",
+            "CERCLE DE KOUTIALA": "5,288"
+        },
+        {
+            "REGION DE KOUTIALA": "2",
+            "undefined": "16,751",
+            "CERCLE DE KOUTIALA": "16,751"
+        },
+        {
+            "REGION DE KOUTIALA": "3",
+            "undefined": "3,128",
+            "CERCLE DE KOUTIALA": "3,128"
+        },
+        {
+            "REGION DE KOUTIALA": "4",
+            "undefined": "2,469",
+            "CERCLE DE KOUTIALA": "2,469"
+        },
+        {
+            "REGION DE KOUTIALA": "5",
+            "undefined": "3,293",
+            "CERCLE DE KOUTIALA": "3,293"
+        },
+        {
+            "REGION DE KOUTIALA": "6",
+            "undefined": "8,190",
+            "CERCLE DE KOUTIALA": "8,190"
+        },
+        {
+            "REGION DE KOUTIALA": "7",
+            "undefined": "3,489",
+            "CERCLE DE KOUTIALA": "3,489"
+        },
+        {
+            "REGION DE KOUTIALA": "8",
+            "undefined": "8,253",
+            "CERCLE DE KOUTIALA": "8,253"
+        },
+        {
+            "REGION DE KOUTIALA": "TOTAL",
+            "CERCLE DE KOUTIALA": "50,861",
+            "undefined": "50,861"
+        },
+        {
+            "REGION DE KOUTIALA": "REGION DE KOUTIALA",
+            "CERCLE DE KOUTIALA": "CERCLE DE YOROSSO"
+        },
+        {
+            "REGION DE KOUTIALA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE KOUTIALA": "Electeurs "
+        },
+        {
+            "REGION DE KOUTIALA": "1",
+            "undefined": "10,449",
+            "CERCLE DE KOUTIALA": "10,449"
+        },
+        {
+            "REGION DE KOUTIALA": "2",
+            "undefined": "11,827",
+            "CERCLE DE KOUTIALA": "11,827"
+        },
+        {
+            "REGION DE KOUTIALA": "3",
+            "undefined": "8,423",
+            "CERCLE DE KOUTIALA": "8,423"
+        },
+        {
+            "REGION DE KOUTIALA": "4",
+            "undefined": "9,813",
+            "CERCLE DE KOUTIALA": "9,813"
+        },
+        {
+            "REGION DE KOUTIALA": "5",
+            "undefined": "11,911",
+            "CERCLE DE KOUTIALA": "11,911"
+        },
+        {
+            "REGION DE KOUTIALA": "6",
+            "undefined": "24,823",
+            "CERCLE DE KOUTIALA": "24,823"
+        },
+        {
+            "REGION DE KOUTIALA": "7",
+            "undefined": "7,387",
+            "CERCLE DE KOUTIALA": "7,387"
+        },
+        {
+            "REGION DE KOUTIALA": "8",
+            "undefined": "4,885",
+            "CERCLE DE KOUTIALA": "4,885"
+        },
+        {
+            "REGION DE KOUTIALA": "9",
+            "undefined": "10,157",
+            "CERCLE DE KOUTIALA": "10,157"
+        },
+        {
+            "REGION DE KOUTIALA": "TOTAL",
+            "CERCLE DE KOUTIALA": "99,675",
+            "undefined": "99,675"
+        },
+        {
+            "REGION DE KOUTIALA": "TOTAL KOUTIALA"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE KOUTIALA": "MONTANT"
+        },
+        {
+            "undefined": "KOUTIALA",
+            "CERCLE DE KOUTIALA": "257,657"
+        },
+        {
+            "undefined": "M'PESSOBA",
+            "CERCLE DE KOUTIALA": "50,861"
+        },
+        {
+            "undefined": "YOROSSO",
+            "CERCLE DE KOUTIALA": "99,675"
+        },
+        {
+            "undefined": "TOTAL",
+            "CERCLE DE KOUTIALA": "408,193"
+        }
+    ],
+    "KITA": [
+        {
+            "REGION DE KITA": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE KENIEBA": "Electeurs  "
+        },
+        {
+            "REGION DE KITA": "1",
+            "undefined": "4,782",
+            "CERCLE DE KENIEBA": "4,782"
+        },
+        {
+            "REGION DE KITA": "2",
+            "undefined": "6,613",
+            "CERCLE DE KENIEBA": "6,613"
+        },
+        {
+            "REGION DE KITA": "3",
+            "undefined": "8,046",
+            "CERCLE DE KENIEBA": "8,046"
+        },
+        {
+            "REGION DE KITA": "4",
+            "undefined": "3,665",
+            "CERCLE DE KENIEBA": "3,665"
+        },
+        {
+            "REGION DE KITA": "5",
+            "undefined": "6,492",
+            "CERCLE DE KENIEBA": "6,492"
+        },
+        {
+            "REGION DE KITA": "6",
+            "undefined": "3,518",
+            "CERCLE DE KENIEBA": "3,518"
+        },
+        {
+            "REGION DE KITA": "7",
+            "undefined": "4,518",
+            "CERCLE DE KENIEBA": "4,518"
+        },
+        {
+            "REGION DE KITA": "8",
+            "undefined": "8,432",
+            "CERCLE DE KENIEBA": "8,432"
+        },
+        {
+            "REGION DE KITA": "9",
+            "undefined": "18,068",
+            "CERCLE DE KENIEBA": "18,068"
+        },
+        {
+            "REGION DE KITA": "10",
+            "undefined": "3,372",
+            "CERCLE DE KENIEBA": "3,372"
+        },
+        {
+            "REGION DE KITA": "11",
+            "undefined": "7,262",
+            "CERCLE DE KENIEBA": "7,262"
+        },
+        {
+            "REGION DE KITA": "12",
+            "undefined": "15,265",
+            "CERCLE DE KENIEBA": "15,265"
+        },
+        {
+            "REGION DE KITA": "TOTAL",
+            "CERCLE DE KENIEBA": "90,033",
+            "undefined": "90,033"
+        },
+        {
+            "REGION DE KITA": "REGION DE KITA",
+            "CERCLE DE KENIEBA": "CERCLE DE : KITA"
+        },
+        {
+            "REGION DE KITA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE KENIEBA": "Electeurs "
+        },
+        {
+            "REGION DE KITA": "1",
+            "undefined": "2,891",
+            "CERCLE DE KENIEBA": "2,891"
+        },
+        {
+            "REGION DE KITA": "2",
+            "undefined": "5,481",
+            "CERCLE DE KENIEBA": "5,481"
+        },
+        {
+            "REGION DE KITA": "3",
+            "undefined": "2,533",
+            "CERCLE DE KENIEBA": "2,533"
+        },
+        {
+            "REGION DE KITA": "4",
+            "undefined": "4,357",
+            "CERCLE DE KENIEBA": "4,357"
+        },
+        {
+            "REGION DE KITA": "5",
+            "undefined": "7,444",
+            "CERCLE DE KENIEBA": "7,444"
+        },
+        {
+            "REGION DE KITA": "6",
+            "undefined": "4,324",
+            "CERCLE DE KENIEBA": "4,324"
+        },
+        {
+            "REGION DE KITA": "7",
+            "undefined": "4,005",
+            "CERCLE DE KENIEBA": "4,005"
+        },
+        {
+            "REGION DE KITA": "8",
+            "undefined": "7,783",
+            "CERCLE DE KENIEBA": "7,783"
+        },
+        {
+            "REGION DE KITA": "9",
+            "undefined": "9,413",
+            "CERCLE DE KENIEBA": "9,413"
+        },
+        {
+            "REGION DE KITA": "10",
+            "undefined": "4,349",
+            "CERCLE DE KENIEBA": "4,349"
+        },
+        {
+            "REGION DE KITA": "11",
+            "undefined": "4,898",
+            "CERCLE DE KENIEBA": "4,898"
+        },
+        {
+            "REGION DE KITA": "12",
+            "undefined": "2,948",
+            "CERCLE DE KENIEBA": "2,948"
+        },
+        {
+            "REGION DE KITA": "13",
+            "undefined": "3,897",
+            "CERCLE DE KENIEBA": "3,897"
+        },
+        {
+            "REGION DE KITA": "14",
+            "undefined": "4,028",
+            "CERCLE DE KENIEBA": "4,028"
+        },
+        {
+            "REGION DE KITA": "15",
+            "undefined": "3,379",
+            "CERCLE DE KENIEBA": "3,379"
+        },
+        {
+            "REGION DE KITA": "16",
+            "undefined": "4,490",
+            "CERCLE DE KENIEBA": "4,490"
+        },
+        {
+            "REGION DE KITA": "17",
+            "undefined": "30,708",
+            "CERCLE DE KENIEBA": "30,708"
+        },
+        {
+            "REGION DE KITA": "TOTAL",
+            "CERCLE DE KENIEBA": "106,928",
+            "undefined": "106,928"
+        },
+        {
+            "REGION DE KITA": "REGION DE KITA",
+            "CERCLE DE KENIEBA": "CERCLE DE : SAGABANI"
+        },
+        {
+            "REGION DE KITA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE KENIEBA": "Electeurs "
+        },
+        {
+            "REGION DE KITA": "1",
+            "undefined": "4,084",
+            "CERCLE DE KENIEBA": "4,084"
+        },
+        {
+            "REGION DE KITA": "2",
+            "undefined": "9,389",
+            "CERCLE DE KENIEBA": "9,389"
+        },
+        {
+            "REGION DE KITA": "3",
+            "undefined": "2,836",
+            "CERCLE DE KENIEBA": "2,836"
+        },
+        {
+            "REGION DE KITA": "TOTAL",
+            "CERCLE DE KENIEBA": "16,309",
+            "undefined": "16,309"
+        },
+        {
+            "REGION DE KITA": "REGION DE KITA",
+            "CERCLE DE KENIEBA": "CERCLE DE SEBEKORO"
+        },
+        {
+            "REGION DE KITA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE KENIEBA": "Electeurs "
+        },
+        {
+            "REGION DE KITA": "1",
+            "undefined": "8,832",
+            "CERCLE DE KENIEBA": "8,832"
+        },
+        {
+            "REGION DE KITA": "2",
+            "undefined": "2,533",
+            "CERCLE DE KENIEBA": "2,533"
+        },
+        {
+            "REGION DE KITA": "3",
+            "undefined": "12,627",
+            "CERCLE DE KENIEBA": "12,627"
+        },
+        {
+            "REGION DE KITA": "4",
+            "undefined": "6,550",
+            "CERCLE DE KENIEBA": "6,550"
+        },
+        {
+            "REGION DE KITA": "TOTAL",
+            "CERCLE DE KENIEBA": "30,542",
+            "undefined": "30,542"
+        },
+        {
+            "REGION DE KITA": "REGION DE KITA",
+            "CERCLE DE KENIEBA": "CERCLE DE TOUKOTO"
+        },
+        {
+            "REGION DE KITA": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE KENIEBA": "Electeurs  "
+        },
+        {
+            "REGION DE KITA": "1",
+            "undefined": "4,124",
+            "CERCLE DE KENIEBA": "4,124"
+        },
+        {
+            "REGION DE KITA": "2",
+            "undefined": "4,407",
+            "CERCLE DE KENIEBA": "4,407"
+        },
+        {
+            "REGION DE KITA": "3",
+            "undefined": "4,301",
+            "CERCLE DE KENIEBA": "4,301"
+        },
+        {
+            "REGION DE KITA": "4",
+            "undefined": "2,697",
+            "CERCLE DE KENIEBA": "2,697"
+        },
+        {
+            "REGION DE KITA": "5",
+            "undefined": "5,926",
+            "CERCLE DE KENIEBA": "5,926"
+        },
+        {
+            "REGION DE KITA": "6",
+            "undefined": "8,371",
+            "CERCLE DE KENIEBA": "8,371"
+        },
+        {
+            "REGION DE KITA": "7",
+            "undefined": "7,135",
+            "CERCLE DE KENIEBA": "7,135"
+        },
+        {
+            "REGION DE KITA": "8",
+            "undefined": "2,287",
+            "CERCLE DE KENIEBA": "2,287"
+        },
+        {
+            "REGION DE KITA": "9",
+            "undefined": "3,299",
+            "CERCLE DE KENIEBA": "3,299"
+        },
+        {
+            "REGION DE KITA": "TOTAL",
+            "CERCLE DE KENIEBA": "42,547",
+            "undefined": "42,547"
+        },
+        {
+            "REGION DE KITA": "TOTAL KITA"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE KENIEBA": "MONTANT"
+        },
+        {
+            "undefined": "KENIEBA",
+            "CERCLE DE KENIEBA": "90,033"
+        },
+        {
+            "undefined": "KITA",
+            "CERCLE DE KENIEBA": "106,928"
+        },
+        {
+            "undefined": "SAGABANI",
+            "CERCLE DE KENIEBA": "16,309"
+        },
+        {
+            "undefined": "SEBECORO",
+            "CERCLE DE KENIEBA": "30,542"
+        },
+        {
+            "undefined": "TOUKOTO",
+            "CERCLE DE KENIEBA": "42,547"
+        },
+        {
+            "undefined": "TOTAL",
+            "CERCLE DE KENIEBA": "286,359"
+        }
+    ],
+    "NARA": [
+        {
+            "REGION DE : KOULIKORO": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE NARA": "Electeurs  "
+        },
+        {
+            "REGION DE : KOULIKORO": "1",
+            "undefined": "3,851",
+            "CERCLE DE NARA": "3,851"
+        },
+        {
+            "REGION DE : KOULIKORO": "2",
+            "undefined": "14,392",
+            "CERCLE DE NARA": "14,392"
+        },
+        {
+            "REGION DE : KOULIKORO": "3",
+            "undefined": "7,411",
+            "CERCLE DE NARA": "7,411"
+        },
+        {
+            "REGION DE : KOULIKORO": "TOTAL",
+            "CERCLE DE NARA": "25,654",
+            "undefined": "25,654"
+        },
+        {
+            "REGION DE : KOULIKORO": "REGION DE : NARA",
+            "CERCLE DE NARA": "CERCLE DE BALLE"
+        },
+        {
+            "REGION DE : KOULIKORO": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE NARA": "Electeurs  "
+        },
+        {
+            "REGION DE : KOULIKORO": "1",
+            "undefined": "4,624",
+            "CERCLE DE NARA": "4,624"
+        },
+        {
+            "REGION DE : KOULIKORO": "2",
+            "undefined": "5,391",
+            "CERCLE DE NARA": "5,391"
+        },
+        {
+            "REGION DE : KOULIKORO": "3",
+            "undefined": "14,582",
+            "CERCLE DE NARA": "14,582"
+        },
+        {
+            "REGION DE : KOULIKORO": "TOTAL",
+            "CERCLE DE NARA": "24,597",
+            "undefined": "24,597"
+        },
+        {
+            "REGION DE : KOULIKORO": "REGION DE : NARA",
+            "CERCLE DE NARA": "CERCLE DE DILLY"
+        },
+        {
+            "REGION DE : KOULIKORO": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE NARA": "Electeurs  "
+        },
+        {
+            "REGION DE : KOULIKORO": "1",
+            "undefined": "15,786",
+            "CERCLE DE NARA": "15,786"
+        },
+        {
+            "REGION DE : KOULIKORO": "2",
+            "undefined": "11,003",
+            "CERCLE DE NARA": "11,003"
+        },
+        {
+            "REGION DE : KOULIKORO": "3",
+            "undefined": "4,670",
+            "CERCLE DE NARA": "4,670"
+        },
+        {
+            "REGION DE : KOULIKORO": "TOTAL",
+            "CERCLE DE NARA": "31,459",
+            "undefined": "31,459"
+        },
+        {
+            "REGION DE : KOULIKORO": "REGION DE : NARA",
+            "CERCLE DE NARA": "CERCLE DE MOURDIAH"
+        },
+        {
+            "REGION DE : KOULIKORO": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE NARA": "Electeurs  "
+        },
+        {
+            "REGION DE : KOULIKORO": "1",
+            "undefined": "8,842",
+            "CERCLE DE NARA": "8,842"
+        },
+        {
+            "REGION DE : KOULIKORO": "2",
+            "undefined": "12,162",
+            "CERCLE DE NARA": "12,162"
+        },
+        {
+            "REGION DE : KOULIKORO": "TOTAL",
+            "CERCLE DE NARA": "21,004",
+            "undefined": "21,004"
+        },
+        {
+            "REGION DE : KOULIKORO": "TOTAL NARA"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE NARA": "MONTANT"
+        },
+        {
+            "undefined": "NARA",
+            "CERCLE DE NARA": "25,654"
+        },
+        {
+            "undefined": "BALLE",
+            "CERCLE DE NARA": "24,597"
+        },
+        {
+            "undefined": "DILLY",
+            "CERCLE DE NARA": "31,459"
+        },
+        {
+            "undefined": "MOURDIAH",
+            "CERCLE DE NARA": "21,004"
+        },
+        {
+            "undefined": "TOTAL",
+            "CERCLE DE NARA": "102,714"
+        }
+    ],
+    "BANDIAGARA": [
+        {
+            "REGION DE : BANDIAGARA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BANDIAGARA": "Electeurs "
+        },
+        {
+            "REGION DE : BANDIAGARA": "1",
+            "undefined": "10,338",
+            "CERCLE DE BANDIAGARA": "10,338"
+        },
+        {
+            "REGION DE : BANDIAGARA": "2",
+            "undefined": "7,275",
+            "CERCLE DE BANDIAGARA": "7,275"
+        },
+        {
+            "REGION DE : BANDIAGARA": "3",
+            "undefined": "3,707",
+            "CERCLE DE BANDIAGARA": "3,707"
+        },
+        {
+            "REGION DE : BANDIAGARA": "4",
+            "undefined": "4,604",
+            "CERCLE DE BANDIAGARA": "4,604"
+        },
+        {
+            "REGION DE : BANDIAGARA": "5",
+            "undefined": "7,089",
+            "CERCLE DE BANDIAGARA": "7,089"
+        },
+        {
+            "REGION DE : BANDIAGARA": "6",
+            "undefined": "2,197",
+            "CERCLE DE BANDIAGARA": "2,197"
+        },
+        {
+            "REGION DE : BANDIAGARA": "7",
+            "undefined": "10,194",
+            "CERCLE DE BANDIAGARA": "10,194"
+        },
+        {
+            "REGION DE : BANDIAGARA": "8",
+            "undefined": "9,426",
+            "CERCLE DE BANDIAGARA": "9,426"
+        },
+        {
+            "REGION DE : BANDIAGARA": "9",
+            "undefined": "2,468",
+            "CERCLE DE BANDIAGARA": "2,468"
+        },
+        {
+            "REGION DE : BANDIAGARA": "10",
+            "undefined": "11,733",
+            "CERCLE DE BANDIAGARA": "11,733"
+        },
+        {
+            "REGION DE : BANDIAGARA": "11",
+            "undefined": "7,081",
+            "CERCLE DE BANDIAGARA": "7,081"
+        },
+        {
+            "REGION DE : BANDIAGARA": "12",
+            "undefined": "4,379",
+            "CERCLE DE BANDIAGARA": "4,379"
+        },
+        {
+            "REGION DE : BANDIAGARA": "13",
+            "undefined": "6,762",
+            "CERCLE DE BANDIAGARA": "6,762"
+        },
+        {
+            "REGION DE : BANDIAGARA": "14",
+            "undefined": "2,989",
+            "CERCLE DE BANDIAGARA": "2,989"
+        },
+        {
+            "REGION DE : BANDIAGARA": "15",
+            "undefined": "2,360",
+            "CERCLE DE BANDIAGARA": "2,360"
+        },
+        {
+            "REGION DE : BANDIAGARA": "16",
+            "undefined": "12,475",
+            "CERCLE DE BANDIAGARA": "12,475"
+        },
+        {
+            "REGION DE : BANDIAGARA": "17",
+            "undefined": "13,902",
+            "CERCLE DE BANDIAGARA": "13,902"
+        },
+        {
+            "REGION DE : BANDIAGARA": "18",
+            "undefined": "7,233",
+            "CERCLE DE BANDIAGARA": "7,233"
+        },
+        {
+            "REGION DE : BANDIAGARA": "19",
+            "undefined": "3,773",
+            "CERCLE DE BANDIAGARA": "3,773"
+        },
+        {
+            "REGION DE : BANDIAGARA": "20",
+            "undefined": "8,710",
+            "CERCLE DE BANDIAGARA": "8,710"
+        },
+        {
+            "REGION DE : BANDIAGARA": "21",
+            "undefined": "12,431",
+            "CERCLE DE BANDIAGARA": "12,431"
+        },
+        {
+            "REGION DE : BANDIAGARA": "TOTAL",
+            "CERCLE DE BANDIAGARA": "151,126",
+            "undefined": "151,126"
+        },
+        {
+            "REGION DE : BANDIAGARA": "REGION DE : BANDIAGARA",
+            "CERCLE DE BANDIAGARA": "CERCLE DE BANKASS"
+        },
+        {
+            "REGION DE : BANDIAGARA": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE BANDIAGARA": "Electeurs "
+        },
+        {
+            "REGION DE : BANDIAGARA": "1",
+            "undefined": "15,683",
+            "CERCLE DE BANDIAGARA": "15,683"
+        },
+        {
+            "REGION DE : BANDIAGARA": "2",
+            "undefined": "16,357",
+            "CERCLE DE BANDIAGARA": "16,357"
+        },
+        {
+            "REGION DE : BANDIAGARA": "3",
+            "undefined": "11,082",
+            "CERCLE DE BANDIAGARA": "11,082"
+        },
+        {
+            "REGION DE : BANDIAGARA": "4",
+            "undefined": "8,863",
+            "CERCLE DE BANDIAGARA": "8,863"
+        },
+        {
+            "REGION DE : BANDIAGARA": "5",
+            "undefined": "6,313",
+            "CERCLE DE BANDIAGARA": "6,313"
+        },
+        {
+            "REGION DE : BANDIAGARA": "6",
+            "undefined": "7,110",
+            "CERCLE DE BANDIAGARA": "7,110"
+        },
+        {
+            "REGION DE : BANDIAGARA": "7",
+            "undefined": "7,432",
+            "CERCLE DE BANDIAGARA": "7,432"
+        },
+        {
+            "REGION DE : BANDIAGARA": "8",
+            "undefined": "10,428",
+            "CERCLE DE BANDIAGARA": "10,428"
+        },
+        {
+            "REGION DE : BANDIAGARA": "9",
+            "undefined": "9,977",
+            "CERCLE DE BANDIAGARA": "9,977"
+        },
+        {
+            "REGION DE : BANDIAGARA": "10",
+            "undefined": "16,188",
+            "CERCLE DE BANDIAGARA": "16,188"
+        },
+        {
+            "REGION DE : BANDIAGARA": "11",
+            "undefined": "5,288",
+            "CERCLE DE BANDIAGARA": "5,288"
+        },
+        {
+            "REGION DE : BANDIAGARA": "12",
+            "undefined": "8,309",
+            "CERCLE DE BANDIAGARA": "8,309"
+        },
+        {
+            "REGION DE : BANDIAGARA": "TOTAL",
+            "CERCLE DE BANDIAGARA": "123,030",
+            "undefined": "123,030"
+        },
+        {
+            "REGION DE : BANDIAGARA": "REGION DE : BANDIAGARA",
+            "CERCLE DE BANDIAGARA": "CERCLE DE KORO"
+        },
+        {
+            "REGION DE : BANDIAGARA": "N°",
+            "undefined": "Nre de  Bulletins",
+            "CERCLE DE BANDIAGARA": "Electeurs  "
+        },
+        {
+            "REGION DE : BANDIAGARA": "1",
+            "undefined": "5,872",
+            "CERCLE DE BANDIAGARA": "5,872"
+        },
+        {
+            "REGION DE : BANDIAGARA": "2",
+            "undefined": "8,980",
+            "CERCLE DE BANDIAGARA": "8,980"
+        },
+        {
+            "REGION DE : BANDIAGARA": "3",
+            "undefined": "14,025",
+            "CERCLE DE BANDIAGARA": "14,025"
+        },
+        {
+            "REGION DE : BANDIAGARA": "4",
+            "undefined": "17,408",
+            "CERCLE DE BANDIAGARA": "17,408"
+        },
+        {
+            "REGION DE : BANDIAGARA": "5",
+            "undefined": "9,914",
+            "CERCLE DE BANDIAGARA": "9,914"
+        },
+        {
+            "REGION DE : BANDIAGARA": "6",
+            "undefined": "8,983",
+            "CERCLE DE BANDIAGARA": "8,983"
+        },
+        {
+            "REGION DE : BANDIAGARA": "7",
+            "undefined": "8,574",
+            "CERCLE DE BANDIAGARA": "8,574"
+        },
+        {
+            "REGION DE : BANDIAGARA": "8",
+            "undefined": "8,915",
+            "CERCLE DE BANDIAGARA": "8,915"
+        },
+        {
+            "REGION DE : BANDIAGARA": "9",
+            "undefined": "28,161",
+            "CERCLE DE BANDIAGARA": "28,161"
+        },
+        {
+            "REGION DE : BANDIAGARA": "10",
+            "undefined": "13,085",
+            "CERCLE DE BANDIAGARA": "13,085"
+        },
+        {
+            "REGION DE : BANDIAGARA": "11",
+            "undefined": "6,813",
+            "CERCLE DE BANDIAGARA": "6,813"
+        },
+        {
+            "REGION DE : BANDIAGARA": "12",
+            "undefined": "9,203",
+            "CERCLE DE BANDIAGARA": "9,203"
+        },
+        {
+            "REGION DE : BANDIAGARA": "13",
+            "undefined": "7,731",
+            "CERCLE DE BANDIAGARA": "7,731"
+        },
+        {
+            "REGION DE : BANDIAGARA": "TOTAL",
+            "CERCLE DE BANDIAGARA": "147,664",
+            "undefined": "147,664"
+        },
+        {
+            "REGION DE : BANDIAGARA": "TOTAL BANDIAGARA"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE BANDIAGARA": "MONTANT"
+        },
+        {
+            "undefined": "BANDIAGARA",
+            "CERCLE DE BANDIAGARA": "151,126"
+        },
+        {
+            "undefined": "BANKASS",
+            "CERCLE DE BANDIAGARA": "123,030"
+        },
+        {
+            "undefined": "KORO",
+            "CERCLE DE BANDIAGARA": "147,664"
+        },
+        {
+            "undefined": "TOTAL",
+            "CERCLE DE BANDIAGARA": "421,820"
+        }
+    ],
+    "SAN": [
+        {
+            "REGION DE : SAN": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE : BLA": "Electeurs "
+        },
+        {
+            "REGION DE : SAN": "1",
+            "undefined": "5,823",
+            "CERCLE DE : BLA": "5,823"
+        },
+        {
+            "REGION DE : SAN": "2",
+            "undefined": "25,276",
+            "CERCLE DE : BLA": "25,276"
+        },
+        {
+            "REGION DE : SAN": "3",
+            "undefined": "4,909",
+            "CERCLE DE : BLA": "4,909"
+        },
+        {
+            "REGION DE : SAN": "4",
+            "undefined": "4,396",
+            "CERCLE DE : BLA": "4,396"
+        },
+        {
+            "REGION DE : SAN": "5",
+            "undefined": "19,562",
+            "CERCLE DE : BLA": "19,562"
+        },
+        {
+            "REGION DE : SAN": "6",
+            "undefined": "6,927",
+            "CERCLE DE : BLA": "6,927"
+        },
+        {
+            "REGION DE : SAN": "7",
+            "undefined": "4,238",
+            "CERCLE DE : BLA": "4,238"
+        },
+        {
+            "REGION DE : SAN": "8",
+            "undefined": "6,299",
+            "CERCLE DE : BLA": "6,299"
+        },
+        {
+            "REGION DE : SAN": "9",
+            "undefined": "6,739",
+            "CERCLE DE : BLA": "6,739"
+        },
+        {
+            "REGION DE : SAN": "10",
+            "undefined": "2,567",
+            "CERCLE DE : BLA": "2,567"
+        },
+        {
+            "REGION DE : SAN": "11",
+            "undefined": "5,748",
+            "CERCLE DE : BLA": "5,748"
+        },
+        {
+            "REGION DE : SAN": "12",
+            "undefined": "5,732",
+            "CERCLE DE : BLA": "5,732"
+        },
+        {
+            "REGION DE : SAN": "13",
+            "undefined": "5,026",
+            "CERCLE DE : BLA": "5,026"
+        },
+        {
+            "REGION DE : SAN": "14",
+            "undefined": "5,656",
+            "CERCLE DE : BLA": "5,656"
+        },
+        {
+            "REGION DE : SAN": "15",
+            "undefined": "13,457",
+            "CERCLE DE : BLA": "13,457"
+        },
+        {
+            "REGION DE : SAN": "16",
+            "undefined": "9,746",
+            "CERCLE DE : BLA": "9,746"
+        },
+        {
+            "undefined": "132,101",
+            "CERCLE DE : BLA": "132,101"
+        },
+        {
+            "REGION DE : SAN": "REGION DE : SAN",
+            "CERCLE DE : BLA": "CERCLE DE : KIMPARANA"
+        },
+        {
+            "REGION DE : SAN": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE : BLA": "Electeurs "
+        },
+        {
+            "REGION DE : SAN": "1",
+            "undefined": "5,621",
+            "CERCLE DE : BLA": "5,621"
+        },
+        {
+            "REGION DE : SAN": "2",
+            "undefined": "3,613",
+            "CERCLE DE : BLA": "3,613"
+        },
+        {
+            "REGION DE : SAN": "3",
+            "undefined": "4,054",
+            "CERCLE DE : BLA": "4,054"
+        },
+        {
+            "REGION DE : SAN": "4",
+            "undefined": "8,655",
+            "CERCLE DE : BLA": "8,655"
+        },
+        {
+            "REGION DE : SAN": "5",
+            "undefined": "8,641",
+            "CERCLE DE : BLA": "8,641"
+        },
+        {
+            "REGION DE : SAN": "6",
+            "undefined": "6,088",
+            "CERCLE DE : BLA": "6,088"
+        },
+        {
+            "REGION DE : SAN": "7",
+            "undefined": "5,845",
+            "CERCLE DE : BLA": "5,845"
+        },
+        {
+            "REGION DE : SAN": "8",
+            "undefined": "4,117",
+            "CERCLE DE : BLA": "4,117"
+        },
+        {
+            "REGION DE : SAN": "9",
+            "undefined": "4,027",
+            "CERCLE DE : BLA": "4,027"
+        },
+        {
+            "undefined": "50,661",
+            "CERCLE DE : BLA": "50,661"
+        },
+        {
+            "REGION DE : SAN": "REGION DE : SAN",
+            "CERCLE DE : BLA": "CERCLE DE : SAN"
+        },
+        {
+            "REGION DE : SAN": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE : BLA": "Electeurs "
+        },
+        {
+            "REGION DE : SAN": "1",
+            "undefined": "3,883",
+            "CERCLE DE : BLA": "3,883"
+        },
+        {
+            "REGION DE : SAN": "2",
+            "undefined": "4,823",
+            "CERCLE DE : BLA": "4,823"
+        },
+        {
+            "REGION DE : SAN": "3",
+            "undefined": "6,964",
+            "CERCLE DE : BLA": "6,964"
+        },
+        {
+            "REGION DE : SAN": "4",
+            "undefined": "2,586",
+            "CERCLE DE : BLA": "2,586"
+        },
+        {
+            "REGION DE : SAN": "5",
+            "undefined": "3,438",
+            "CERCLE DE : BLA": "3,438"
+        },
+        {
+            "REGION DE : SAN": "6",
+            "undefined": "3,694",
+            "CERCLE DE : BLA": "3,694"
+        },
+        {
+            "REGION DE : SAN": "7",
+            "undefined": "4,076",
+            "CERCLE DE : BLA": "4,076"
+        },
+        {
+            "REGION DE : SAN": "8",
+            "undefined": "5,925",
+            "CERCLE DE : BLA": "5,925"
+        },
+        {
+            "REGION DE : SAN": "9",
+            "undefined": "4,363",
+            "CERCLE DE : BLA": "4,363"
+        },
+        {
+            "REGION DE : SAN": "10",
+            "undefined": "6,331",
+            "CERCLE DE : BLA": "6,331"
+        },
+        {
+            "REGION DE : SAN": "11",
+            "undefined": "43,414",
+            "CERCLE DE : BLA": "43,414"
+        },
+        {
+            "REGION DE : SAN": "12",
+            "undefined": "7,375",
+            "CERCLE DE : BLA": "7,375"
+        },
+        {
+            "REGION DE : SAN": "13",
+            "undefined": "1,657",
+            "CERCLE DE : BLA": "1,657"
+        },
+        {
+            "REGION DE : SAN": "14",
+            "undefined": "5,887",
+            "CERCLE DE : BLA": "5,887"
+        },
+        {
+            "REGION DE : SAN": "15",
+            "undefined": "9,721",
+            "CERCLE DE : BLA": "9,721"
+        },
+        {
+            "REGION DE : SAN": "16",
+            "undefined": "4,270",
+            "CERCLE DE : BLA": "4,270"
+        },
+        {
+            "undefined": "118,407",
+            "CERCLE DE : BLA": "118,407"
+        },
+        {
+            "REGION DE : SAN": "REGION DE : SAN",
+            "CERCLE DE : BLA": "CERCLE DE : TOMINIAN"
+        },
+        {
+            "REGION DE : SAN": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE : BLA": "Electeurs "
+        },
+        {
+            "REGION DE : SAN": "1",
+            "undefined": "8,983",
+            "CERCLE DE : BLA": "8,983"
+        },
+        {
+            "REGION DE : SAN": "2",
+            "undefined": "7,184",
+            "CERCLE DE : BLA": "7,184"
+        },
+        {
+            "REGION DE : SAN": "3",
+            "undefined": "11,116",
+            "CERCLE DE : BLA": "11,116"
+        },
+        {
+            "REGION DE : SAN": "4",
+            "undefined": "7,506",
+            "CERCLE DE : BLA": "7,506"
+        },
+        {
+            "REGION DE : SAN": "5",
+            "undefined": "4,283",
+            "CERCLE DE : BLA": "4,283"
+        },
+        {
+            "REGION DE : SAN": "6",
+            "undefined": "9,828",
+            "CERCLE DE : BLA": "9,828"
+        },
+        {
+            "REGION DE : SAN": "7",
+            "undefined": "8,961",
+            "CERCLE DE : BLA": "8,961"
+        },
+        {
+            "REGION DE : SAN": "8",
+            "undefined": "4,851",
+            "CERCLE DE : BLA": "4,851"
+        },
+        {
+            "REGION DE : SAN": "9",
+            "undefined": "6,011",
+            "CERCLE DE : BLA": "6,011"
+        },
+        {
+            "REGION DE : SAN": "10",
+            "undefined": "10,578",
+            "CERCLE DE : BLA": "10,578"
+        },
+        {
+            "REGION DE : SAN": "11",
+            "undefined": "11,898",
+            "CERCLE DE : BLA": "11,898"
+        },
+        {
+            "REGION DE : SAN": "12",
+            "undefined": "6,219",
+            "CERCLE DE : BLA": "6,219"
+        },
+        {
+            "undefined": "97,418",
+            "CERCLE DE : BLA": "97,418"
+        },
+        {
+            "REGION DE : SAN": "TOTAL SAN"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE : BLA": "MONTANT"
+        },
+        {
+            "undefined": "BLA",
+            "CERCLE DE : BLA": "132,101"
+        },
+        {
+            "undefined": "KIMPARANA",
+            "CERCLE DE : BLA": "50,661"
+        },
+        {
+            "undefined": "SAN",
+            "CERCLE DE : BLA": "118,407"
+        },
+        {
+            "undefined": "TOMINIAN",
+            "CERCLE DE : BLA": "97,418"
+        },
+        {
+            "undefined": "TOTAL",
+            "CERCLE DE : BLA": "398,587"
+        }
+    ],
+    "DOUENTZA": [
+        {
+            "REGION DE : MOPTI": "N°",
+            "undefined": "Nre de  Bulletins",
+            "CERCLE DE DOUENTZA": "Electeurs  "
+        },
+        {
+            "REGION DE : MOPTI": "1",
+            "undefined": "4,243",
+            "CERCLE DE DOUENTZA": "4,243"
+        },
+        {
+            "REGION DE : MOPTI": "2",
+            "undefined": "13,432",
+            "CERCLE DE DOUENTZA": "13,432"
+        },
+        {
+            "REGION DE : MOPTI": "3",
+            "undefined": "3,670",
+            "CERCLE DE DOUENTZA": "3,670"
+        },
+        {
+            "REGION DE : MOPTI": "4",
+            "undefined": "4,093",
+            "CERCLE DE DOUENTZA": "4,093"
+        },
+        {
+            "REGION DE : MOPTI": "5",
+            "undefined": "17,525",
+            "CERCLE DE DOUENTZA": "17,525"
+        },
+        {
+            "REGION DE : MOPTI": "6",
+            "undefined": "14,248",
+            "CERCLE DE DOUENTZA": "14,248"
+        },
+        {
+            "REGION DE : MOPTI": "7",
+            "undefined": "4,016",
+            "CERCLE DE DOUENTZA": "4,016"
+        },
+        {
+            "REGION DE : MOPTI": "8",
+            "undefined": "3,166",
+            "CERCLE DE DOUENTZA": "3,166"
+        },
+        {
+            "REGION DE : MOPTI": "9",
+            "undefined": "3,840",
+            "CERCLE DE DOUENTZA": "3,840"
+        },
+        {
+            "REGION DE : MOPTI": "10",
+            "undefined": "6,668",
+            "CERCLE DE DOUENTZA": "6,668"
+        },
+        {
+            "REGION DE : MOPTI": "11",
+            "undefined": "3,391",
+            "CERCLE DE DOUENTZA": "3,391"
+        },
+        {
+            "REGION DE : MOPTI": "12",
+            "undefined": "4,474",
+            "CERCLE DE DOUENTZA": "4,474"
+        },
+        {
+            "REGION DE : MOPTI": "TOTAL",
+            "CERCLE DE DOUENTZA": "82,766",
+            "undefined": "82,766"
+        },
+        {
+            "REGION DE : MOPTI": "REGION DE : DOUENTZA",
+            "CERCLE DE DOUENTZA": "CERCLE DE BONI"
+        },
+        {
+            "REGION DE : MOPTI": "N°",
+            "undefined": "Nre de  Bulletins",
+            "CERCLE DE DOUENTZA": "Electeurs  "
+        },
+        {
+            "REGION DE : MOPTI": "1",
+            "undefined": "?",
+            "CERCLE DE DOUENTZA": "?"
+        },
+        {
+            "REGION DE : MOPTI": "2",
+            "undefined": "?",
+            "CERCLE DE DOUENTZA": "?"
+        },
+        {
+            "REGION DE : MOPTI": "3",
+            "undefined": "?",
+            "CERCLE DE DOUENTZA": "?"
+        },
+        {
+            "REGION DE : MOPTI": "4",
+            "undefined": "15,829",
+            "CERCLE DE DOUENTZA": "15,829"
+        },
+        {
+            "REGION DE : MOPTI": "5",
+            "undefined": "9,902",
+            "CERCLE DE DOUENTZA": "9,902"
+        },
+        {
+            "REGION DE : MOPTI": "TOTAL",
+            "CERCLE DE DOUENTZA": "25,731",
+            "undefined": "25,731"
+        },
+        {
+            "REGION DE : MOPTI": "REGION DE : DOUENTZA",
+            "CERCLE DE DOUENTZA": "CERCLE DE DIANKABOU"
+        },
+        {
+            "REGION DE : MOPTI": "N°",
+            "undefined": "Nre de  Bulletins",
+            "CERCLE DE DOUENTZA": "Electeurs  "
+        },
+        {
+            "REGION DE : MOPTI": "1",
+            "undefined": "6,219",
+            "CERCLE DE DOUENTZA": "6,219"
+        },
+        {
+            "REGION DE : MOPTI": "2",
+            "undefined": "6,422",
+            "CERCLE DE DOUENTZA": "6,422"
+        },
+        {
+            "REGION DE : MOPTI": "3",
+            "undefined": "8,281",
+            "CERCLE DE DOUENTZA": "8,281"
+        },
+        {
+            "REGION DE : MOPTI": "TOTAL",
+            "CERCLE DE DOUENTZA": "20,922",
+            "undefined": "20,922"
+        },
+        {
+            "REGION DE : MOPTI": "REGION DE : DOUENTZA",
+            "CERCLE DE DOUENTZA": "CERCLE DE MONDORO"
+        },
+        {
+            "REGION DE : MOPTI": "N°",
+            "undefined": "Nre de  Bulletins",
+            "CERCLE DE DOUENTZA": "Electeurs  "
+        },
+        {
+            "REGION DE : MOPTI": "1",
+            "undefined": "BOULIKESSI",
+            "CERCLE DE DOUENTZA": "?"
+        },
+        {
+            "REGION DE : MOPTI": "2",
+            "undefined": "18,218",
+            "CERCLE DE DOUENTZA": "18,218"
+        },
+        {
+            "REGION DE : MOPTI": "3",
+            "undefined": "?",
+            "CERCLE DE DOUENTZA": "?"
+        },
+        {
+            "REGION DE : MOPTI": "TOTAL",
+            "CERCLE DE DOUENTZA": "18,218",
+            "undefined": "18,218"
+        },
+        {
+            "REGION DE : MOPTI": "TOTAL DOUENTZA"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE DOUENTZA": "MONTANT"
+        },
+        {
+            "undefined": "DOUENTZA",
+            "CERCLE DE DOUENTZA": "82,766"
+        },
+        {
+            "undefined": "BONI",
+            "CERCLE DE DOUENTZA": "25,731"
+        },
+        {
+            "undefined": "DIANKABOU",
+            "CERCLE DE DOUENTZA": "20,922"
+        },
+        {
+            "undefined": "MONDORO",
+            "CERCLE DE DOUENTZA": "18,218"
+        },
+        {
+            "undefined": "TOTAL",
+            "CERCLE DE DOUENTZA": "147,637"
+        }
+    ],
+    "GOURMA": [
+        {
+            "REGION DE GOURMA": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE GOSSI": "Nbre BV"
+        },
+        {
+            "REGION DE GOURMA": "1",
+            "undefined": "?",
+            "CERCLE DE GOSSI": "?"
+        },
+        {
+            "REGION DE GOURMA": "2",
+            "undefined": "?",
+            "CERCLE DE GOSSI": "?"
+        },
+        {
+            "REGION DE GOURMA": "3",
+            "undefined": "14,675",
+            "CERCLE DE GOSSI": "48"
+        },
+        {
+            "REGION DE GOURMA": "4",
+            "undefined": "4,866",
+            "CERCLE DE GOSSI": "17"
+        },
+        {
+            "REGION DE GOURMA": "TOTAL",
+            "undefined": "19,541",
+            "CERCLE DE GOSSI": "65"
+        },
+        {
+            "REGION DE GOURMA": "REGION DE GOURMA",
+            "CERCLE DE GOSSI": "CERCLE DE BAMBARA MAOUDE"
+        },
+        {
+            "REGION DE GOURMA": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE GOSSI": "Nbre BV"
+        },
+        {
+            "REGION DE GOURMA": "1",
+            "undefined": "8,001",
+            "CERCLE DE GOSSI": "30"
+        },
+        {
+            "REGION DE GOURMA": "2",
+            "undefined": "6,781",
+            "CERCLE DE GOSSI": "25"
+        },
+        {
+            "REGION DE GOURMA": "3",
+            "undefined": "7,014",
+            "CERCLE DE GOSSI": "20"
+        },
+        {
+            "REGION DE GOURMA": "TOTAL",
+            "undefined": "21,796",
+            "CERCLE DE GOSSI": "75"
+        },
+        {
+            "REGION DE GOURMA": "REGION DE GOURMA",
+            "CERCLE DE GOSSI": "CERCLE DE RHAROUS"
+        },
+        {
+            "REGION DE GOURMA": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE GOSSI": "Nbre BV"
+        },
+        {
+            "REGION DE GOURMA": "1",
+            "undefined": "4,812",
+            "CERCLE DE GOSSI": "17"
+        },
+        {
+            "REGION DE GOURMA": "2",
+            "undefined": "4,771",
+            "CERCLE DE GOSSI": "18"
+        },
+        {
+            "REGION DE GOURMA": "3",
+            "undefined": "13,193",
+            "CERCLE DE GOSSI": "40"
+        },
+        {
+            "REGION DE GOURMA": "4",
+            "undefined": "4,746",
+            "CERCLE DE GOSSI": "13"
+        },
+        {
+            "REGION DE GOURMA": "TOTAL",
+            "undefined": "27,522",
+            "CERCLE DE GOSSI": "88"
+        },
+        {
+            "REGION DE GOURMA": "TOTAL GOURMA"
+        },
+        {
+            "undefined": "MONTANT"
+        },
+        {
+            "undefined": "19,541"
+        },
+        {
+            "undefined": "21,796"
+        },
+        {
+            "undefined": "27,522"
+        },
+        {
+            "undefined": "68,859"
+        }
+    ],
+    "NIORO": [
+        {
+            "REGION DE : NIORO": "N°",
+            "undefined": "Nbre de  Bulletins",
+            "CERCLE DE : NIORO": "Electeurs "
+        },
+        {
+            "REGION DE : NIORO": "1",
+            "undefined": "6,496",
+            "CERCLE DE : NIORO": "6,496"
+        },
+        {
+            "REGION DE : NIORO": "2",
+            "undefined": "8,932",
+            "CERCLE DE : NIORO": "8,932"
+        },
+        {
+            "REGION DE : NIORO": "3",
+            "undefined": "4,486",
+            "CERCLE DE : NIORO": "4,486"
+        },
+        {
+            "REGION DE : NIORO": "4",
+            "undefined": "4,646",
+            "CERCLE DE : NIORO": "4,646"
+        },
+        {
+            "REGION DE : NIORO": "5",
+            "undefined": "18,126",
+            "CERCLE DE : NIORO": "18,126"
+        },
+        {
+            "REGION DE : NIORO": "6",
+            "undefined": "6,728",
+            "CERCLE DE : NIORO": "6,728"
+        },
+        {
+            "REGION DE : NIORO": "7",
+            "undefined": "3,478",
+            "CERCLE DE : NIORO": "3,478"
+        },
+        {
+            "REGION DE : NIORO": "TOTAL",
+            "CERCLE DE : NIORO": "52,892",
+            "undefined": "52,892"
+        },
+        {
+            "REGION DE : NIORO": "REGION DE : NIORO",
+            "CERCLE DE : NIORO": "CERCLE DE : DIEMA"
+        },
+        {
+            "REGION DE : NIORO": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE : NIORO": "Electeurs "
+        },
+        {
+            "REGION DE : NIORO": "1",
+            "undefined": "11,275",
+            "CERCLE DE : NIORO": "11,275"
+        },
+        {
+            "REGION DE : NIORO": "2",
+            "undefined": "6,359",
+            "CERCLE DE : NIORO": "6,359"
+        },
+        {
+            "REGION DE : NIORO": "3",
+            "undefined": "13,202",
+            "CERCLE DE : NIORO": "13,202"
+        },
+        {
+            "REGION DE : NIORO": "4",
+            "undefined": "16,506",
+            "CERCLE DE : NIORO": "16,506"
+        },
+        {
+            "REGION DE : NIORO": "5",
+            "undefined": "6,716",
+            "CERCLE DE : NIORO": "6,716"
+        },
+        {
+            "REGION DE : NIORO": "6",
+            "undefined": "2,827",
+            "CERCLE DE : NIORO": "2,827"
+        },
+        {
+            "REGION DE : NIORO": "7",
+            "undefined": "4,034",
+            "CERCLE DE : NIORO": "4,034"
+        },
+        {
+            "REGION DE : NIORO": "8",
+            "undefined": "2,874",
+            "CERCLE DE : NIORO": "2,874"
+        },
+        {
+            "REGION DE : NIORO": "9",
+            "undefined": "5,437",
+            "CERCLE DE : NIORO": "5,437"
+        },
+        {
+            "REGION DE : NIORO": "10",
+            "undefined": "2,397",
+            "CERCLE DE : NIORO": "2,397"
+        },
+        {
+            "REGION DE : NIORO": "11",
+            "undefined": "7,573",
+            "CERCLE DE : NIORO": "7,573"
+        },
+        {
+            "REGION DE : NIORO": "12",
+            "undefined": "6,214",
+            "CERCLE DE : NIORO": "6,214"
+        },
+        {
+            "REGION DE : NIORO": "TOTAL",
+            "CERCLE DE : NIORO": "85,414",
+            "undefined": "85,414"
+        },
+        {
+            "REGION DE : NIORO": "REGION DE : NIORO",
+            "CERCLE DE : NIORO": "CERCLE DE : SANDARE"
+        },
+        {
+            "REGION DE : NIORO": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE : NIORO": "Electeurs "
+        },
+        {
+            "REGION DE : NIORO": "1",
+            "undefined": "5,317",
+            "CERCLE DE : NIORO": "5,317"
+        },
+        {
+            "REGION DE : NIORO": "2",
+            "undefined": "7,055",
+            "CERCLE DE : NIORO": "7,055"
+        },
+        {
+            "REGION DE : NIORO": "3",
+            "undefined": "2,492",
+            "CERCLE DE : NIORO": "2,492"
+        },
+        {
+            "REGION DE : NIORO": "4",
+            "undefined": "11,323",
+            "CERCLE DE : NIORO": "11,323"
+        },
+        {
+            "REGION DE : NIORO": "5",
+            "undefined": "8,543",
+            "CERCLE DE : NIORO": "8,543"
+        },
+        {
+            "REGION DE : NIORO": "TOTAL",
+            "CERCLE DE : NIORO": "34,730",
+            "undefined": "34,730"
+        },
+        {
+            "REGION DE : NIORO": "REGION DE : NIORO",
+            "CERCLE DE : NIORO": "CERCLE DE : TROUNGOUMBE"
+        },
+        {
+            "REGION DE : NIORO": "N°",
+            "undefined": "Bulletins de vote",
+            "CERCLE DE : NIORO": "Electeurs "
+        },
+        {
+            "REGION DE : NIORO": "1",
+            "undefined": "6,705",
+            "CERCLE DE : NIORO": "6,705"
+        },
+        {
+            "REGION DE : NIORO": "2",
+            "undefined": "9,027",
+            "CERCLE DE : NIORO": "9,027"
+        },
+        {
+            "REGION DE : NIORO": "3",
+            "undefined": "3,055",
+            "CERCLE DE : NIORO": "3,055"
+        },
+        {
+            "REGION DE : NIORO": "4",
+            "undefined": "5,157",
+            "CERCLE DE : NIORO": "5,157"
+        },
+        {
+            "REGION DE : NIORO": "5",
+            "undefined": "3,982",
+            "CERCLE DE : NIORO": "3,982"
+        },
+        {
+            "REGION DE : NIORO": "6",
+            "undefined": "6,169",
+            "CERCLE DE : NIORO": "6,169"
+        },
+        {
+            "REGION DE : NIORO": "7",
+            "undefined": "6,490",
+            "CERCLE DE : NIORO": "6,490"
+        },
+        {
+            "REGION DE : NIORO": "TOTAL",
+            "CERCLE DE : NIORO": "40,585",
+            "undefined": "40,585"
+        },
+        {
+            "REGION DE : NIORO": "TOTAL NIORO"
+        },
+        {
+            "undefined": "CERCLES",
+            "CERCLE DE : NIORO": "MONTANT"
+        },
+        {
+            "undefined": "SANDARE",
+            "CERCLE DE : NIORO": "34,730"
+        },
+        {
+            "undefined": "TROUNGOUMBE",
+            "CERCLE DE : NIORO": "40,585"
+        },
+        {
+            "undefined": "DIEMA",
+            "CERCLE DE : NIORO": "85,414"
+        },
+        {
+            "undefined": "NIORO",
+            "CERCLE DE : NIORO": "52,892"
+        },
+        {
+            "undefined": " TOTAL",
+            "CERCLE DE : NIORO": "213,621"
+        }
+    ],
+    "RECAP DES REGIONS": [
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "REGIONS",
+            "undefined": "BUREAUX DE VOTE"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Bamako",
+            "undefined": "2598"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Kayes",
+            "undefined": "1350"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Koulikoro",
+            "undefined": "1966"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Sikasso",
+            "undefined": "1412"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Ségou",
+            "undefined": "2287"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Mopti",
+            "undefined": "1414"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Tombouctou",
+            "undefined": "1060"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Gao",
+            "undefined": "612"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Kidal",
+            "undefined": "112"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Taoudéni",
+            "undefined": "?"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Ménaka",
+            "undefined": "141"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Bougouni",
+            "undefined": "1458"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Dioïla",
+            "undefined": "637"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Nioro",
+            "undefined": "643"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Koutiala",
+            "undefined": "1000"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Kita",
+            "undefined": "949"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Nara",
+            "undefined": "385"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Bandiagara",
+            "undefined": "1377"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "San",
+            "undefined": "1318"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Douentza",
+            "undefined": "481"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Gourma",
+            "undefined": "238"
+        },
+        {
+            "LISTES DU NOMBRE D'ELECTEURS DANS LES REGIONS": "TOTAL",
+            "undefined": "21438"
+        }
+    ],
+    "Feuil1": [
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "REGIONS",
+            "undefined": "BUREAUX DE VOTE"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Bamako",
+            "undefined": "2598"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Kayes",
+            "undefined": "1350"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Koulikoro",
+            "undefined": "1966"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Sikasso",
+            "undefined": "1412"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Ségou",
+            "undefined": "2287"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Mopti",
+            "undefined": "1414"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Tombouctou",
+            "undefined": "1060"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Gao",
+            "undefined": "612"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Kidal",
+            "undefined": "112"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Taoudéni",
+            "undefined": "?"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Ménaka",
+            "undefined": "141"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Bougouni",
+            "undefined": "1458"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Dioïla",
+            "undefined": "637"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Nioro",
+            "undefined": "643"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Koutiala",
+            "undefined": "1000"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Kita",
+            "undefined": "949"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Nara",
+            "undefined": "385"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Bandiagara",
+            "undefined": "1377"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "San",
+            "undefined": "1318"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Douentza",
+            "undefined": "481"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "Gourma",
+            "undefined": "238"
+        },
+        {
+            "LISTES DU TIER DU NOMBRE D'ELECTEURS DANS LES REGIONS": "TOTAL",
+            "undefined": "21438"
+        }
+    ]
+}

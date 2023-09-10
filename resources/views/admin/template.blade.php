@@ -15,6 +15,7 @@
     <!-- Bootstrap -->
     
     <link href="{{ asset('vendors/bootstrap/dist/css/bootstrap.min.css')}}" rel="stylesheet">
+    <link href="{{ asset('vendors/bootstrap/dist/css/bootstrap.min.css')}}" rel="stylesheet">
     <!-- Font Awesome -->
     <link href="{{ asset('vendors/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet">
     <!-- NProgress -->
@@ -30,7 +31,7 @@
     <link href="{{ asset('vendors/bootstrap-daterangepicker/daterangepicker.css')}}" rel="stylesheet">
 
     <!-- Custom Theme Style -->
-    
+    @stack('head')
     <link href="{{ asset('build/css/custom.min.css')}}" rel="stylesheet">
     <script src="https://cdn.tiny.cloud/1/j8thpzknla20uw2er0ns9fak5ye61kl9q9q9ldx3bcb8tgdz/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
   </head>
@@ -137,7 +138,8 @@
   </script>
 
 
+
     <script src="../build/js/custom.min.js"></script>
-	
+    @stack('footer')
   </body>
 </html>

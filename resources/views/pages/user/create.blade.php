@@ -45,7 +45,58 @@
 												<input value="{{$enqUser->password}}" name="password" type="text" id="last-name" required="required" class="form-control">
 											</div>
 										</div>
+										<div class="item form-group">
+											<label class="col-form-label col-md-3 col-sm-3 label-align" for="last-name">Rôle <span class="required">*</span>
+											</label>
+											<div class="col-md-6 col-sm-6 ">
+											<select name="role" class="form-control">
+											<option>---------</option>
+											<option value="region" >Coordinateur regionnal</option>
+											<option value="cercle" >Coordinateur du cercle</option>
+											<option value="cercle" >Coordinateur de commune</option>
+											<option value="cercle" >Coordinateur de base</option>
 										 
+										 
+										 
+											 
+											</select>
+											</div>
+										</div>
+
+										<div class="item form-group">
+											<label class="col-form-label col-md-3 col-sm-3 label-align" for="last-name">Region <span class="required">*</span>
+											</label>
+											<div class="col-md-6 col-sm-6 ">
+											<select name="region" class="form-control">
+											<option>---------</option>
+											<option value="Kayes" >Kayes</option>
+											<option value="Koulikoro" >Koulikoro</option>
+											<option value="Sikasso" >Sikasso</option>
+											<option value="Ségou" >Ségou</option>
+											<option value="Mopti" >Mopti</option>
+											<option value="Tombouctou" >Tombouctou</option>
+											<option value="Gao" >Gao</option>
+											<option value="Kidal" >Kidal</option>
+											<option value="Taoudénit" >Taoudénit</option>
+											<option value="Menaka" >Menaka</option>
+											<option value="Bougouni" >Bougouni</option>
+											<option value="Dioila" >Dioila</option>
+											<option value="Nioro" >Nioro</option>
+											<option value="Koutiala" >Koutiala</option>
+											<option value="Kita" >Kita</option>
+											<option value="Nara" >Nara</option>
+											<option value="Bandiagara" >Bandiagara</option>
+											<option value="San" >San</option>
+											<option value="Douentza" >Douentza</option>
+											<option value="Gourma" >Gourma</option>
+											 
+											</select>
+											</div>
+										</div>
+										 
+
+										 
+
 										<div class="item form-group">
 											<label class="col-form-label col-md-3 col-sm-3 label-align" for="last-name">Adresse <span class="required">*</span>
 											</label>

@@ -29,7 +29,9 @@
                     
               <table id="datatable-buttons" class="table table-striped table-bordered dataTable no-footer dtr-inline" style="width: 100%;" role="grid" aria-describedby="datatable-buttons_info">
                       <thead>
-                        <tr role="row"><th class="sorting_asc" tabindex="0" aria-controls="datatable-buttons" rowspan="1" colspan="1" style="width: 165px;" aria-sort="ascending" aria-label="Name: activate to sort column descending">Identifiant</th><th class="sorting" tabindex="0" aria-controls="datatable-buttons" rowspan="1" colspan="1" style="width: 253px;" aria-label="Position: activate to sort column ascending">Nom</th><th class="sorting" tabindex="0" aria-controls="datatable-buttons" rowspan="1" colspan="1" style="width: 126px;" aria-label="Office: activate to sort column ascending">Prénom</th><th class="sorting" tabindex="0" aria-controls="datatable-buttons" rowspan="1" colspan="1" style="width: 63px;" aria-label="Age: activate to sort column ascending">Numéro</th><th class="sorting" tabindex="0" aria-controls="datatable-buttons" rowspan="1" colspan="1" style="width: 121px;" aria-label="Start date: activate to sort column ascending">Action</th></tr>
+                        <tr role="row"><th class="sorting_asc" tabindex="0" aria-controls="datatable-buttons" rowspan="1" colspan="1" style="width: 165px;" aria-sort="ascending" aria-label="Name: activate to sort column descending">Identifiant</th><th class="sorting" tabindex="0" aria-controls="datatable-buttons" rowspan="1" colspan="1" style="width: 253px;" aria-label="Position: activate to sort column ascending">Nom</th>
+                            <th class="sorting" tabindex="0" aria-controls="datatable-buttons" rowspan="1" colspan="1" style="width: 126px;" aria-label="Office: activate to sort column ascending">Prénom</th>
+                          <th class="sorting" tabindex="0" aria-controls="datatable-buttons" rowspan="1" colspan="1" style="width: 126px;" aria-label="Office: activate to sort column ascending">Rôle</th><th class="sorting" tabindex="0" aria-controls="datatable-buttons" rowspan="1" colspan="1" style="width: 63px;" aria-label="Age: activate to sort column ascending">Numéro</th><th class="sorting" tabindex="0" aria-controls="datatable-buttons" rowspan="1" colspan="1" style="width: 121px;" aria-label="Start date: activate to sort column ascending">Action</th></tr>
                       </thead>
 
 
@@ -40,6 +42,7 @@
                           <td>{{$user->id}}</td>
                           <td tabindex="0" class="sorting_1">{{$user->nom}}</td>
                           <td>{{$user->prenom}}</td>
+                          <td>{{$user->role}}</td>
                           <td>{{$user->telephone}}</td>
                           <td> <a href="{{ route('admin.enquser.show', ['id'=>$user->id]) }}">Modifier</a> </td>
                          

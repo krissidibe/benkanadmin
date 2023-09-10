@@ -3,7 +3,9 @@
 namespace App\Http\Controllers;
 
 use App\Models\Post;
+use Facade\FlareClient\Stacktrace\File;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
 
 class PostController extends Controller
 {
@@ -50,14 +52,34 @@ class PostController extends Controller
          
         }elseif ($request->action == "Modifier") {
            $postUpdate = Post::find($request->id);
-
+           
            
             $postUpdate->update($request->except(["_method","_token","action","id"]));
-            return redirect()->route("admin.post.index")->with('edit',"l'article avec le titre $request->titre est modifier");
+            return redirect()->route("admin.post.index")->with('edit',"l'article avec le titre $request->id est modifier");
         }
         elseif ($request->action == "Ajouter") {
+
+        /*      $request->validate([
+            'image' => 'required|image|mimes:jpeg,png,jpg,gif,svg|max:2048',
+        ]); */
+            
         $post  = new Post();
-        $post->create($request->except(["_method","_token","action","id"]));
+       
+        $imageName = time().'.'.$request->image->getClientOriginalExtension();
+       
+        $request->image->move(public_path('images'), $imageName);
+        
+       // $path = $request->image->move("/home/gestionb/public_html/images", $imageName);
+       
+        
+        $post->create(
+            [
+                'image' => $imageName,
+                'titre' => $request->titre,
+                'contenu' => strip_tags(htmlspecialchars_decode(html_entity_decode($request->contenu)))
+                
+            ]
+        );
         return redirect()->back()->with('success',"l'article avec le titre $request->titre est publier");
         }
 

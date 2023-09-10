@@ -2,6 +2,21 @@
 @section("content")
  
  <div class="x_panel">
+    <div class="x_panel">
+  @if ($message = Session::get('edit'))
+<div class="alert alert-success alert-dismissible " role="alert">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span>
+                    </button>
+                     <strong>{{ $message }}</strong>
+                  </div>
+@endif
+  @if ($message = Session::get('delete'))
+<div class="alert alert-danger alert-dismissible " role="alert">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span>
+                    </button>
+                     <strong>{{ $message }}</strong>
+                  </div>
+@endif
                   <div class="x_title">
                     <h2>Liste des Articles</h2>
                     

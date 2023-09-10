@@ -16,7 +16,9 @@ class Post extends JsonResource
     {
         return [
         'titre' => $this->titre,
+        
         'contenu' => strip_tags($this->contenu),
+        'image' => strip_tags(config('app.url')."/images/".$this->image),
         'updated_at' =>  date("d/m/Y", strtotime($this->updated_at)) ,
         
     ];
