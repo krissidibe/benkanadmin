@@ -1,4 +1,4 @@
-ù@extends("admin.template")
+@extends("admin.template")
 @section("content")
  
 <form action="{{ route("admin.post.store") }}" method="post" encType="multipart/form-data"   id="demo-form2" data-parsley-validate="" class="form-horizontal form-label-left" novalidate="">
