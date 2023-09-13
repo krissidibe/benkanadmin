@@ -16,7 +16,7 @@ class AddDay extends Migration
         Schema::table('calendars', function (Blueprint $table) {
             //
 
-            $table->date("day")->nullable();
+            $table->boolean("isCompleted")->default(false);
         });
     }
 

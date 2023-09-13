@@ -134,7 +134,8 @@
 </div>
 <div class="rigth">
 <div class="carte__img" >
-	<img style="width:100px;height:100px;object-fit:cover;" src="https://www.gestion-benkan.ml/{{$adhesion->photo}}" alt="" srcset="">
+{{-- 	<img style="width:100px;height:100px;object-fit:cover;" src="https://www.gestion-benkan.ml/{{$adhesion->photo}}" alt="" srcset=""> --}}
+	<img style="width:100px;height:100px;object-fit:cover;" src="/{{$adhesion->photo}}" alt="" srcset="">
 </div>
 </div>
 		</div>

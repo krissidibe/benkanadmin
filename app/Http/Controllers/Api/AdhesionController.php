@@ -47,6 +47,8 @@ class AdhesionController extends Controller
      */
     public function store(Request $request)
     {
+
+        
         $credentials = request([
             'nom',
             'prenom',
@@ -63,12 +65,14 @@ class AdhesionController extends Controller
         ]);
 
         $imageName =
-            time() . '.' . $request->photo->getClientOriginalExtension();
-
+        time() . '.' . $request->photo->getClientOriginalExtension();
+        
+        
         $request->photo->move(public_path('adhesion'), $imageName);
         $credentials['photo'] = 'adhesion/' . $imageName;
         $adhesion = new Adhesion();
         $adhesion->create($credentials);
+        return $request->photo->getClientOriginalExtension();
         return $adhesion->id;
     }
 

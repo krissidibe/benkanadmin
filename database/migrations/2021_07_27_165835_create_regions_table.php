@@ -15,7 +15,9 @@ class CreateRegionsTable extends Migration
     {
         Schema::create('regions', function (Blueprint $table) {
             $table->id();
-            $table->string("nom");
+            $table->string("nom")->nullable();
+            $table->integer("classement")->nullable();
+            $table->integer("electeurs")->nullable();
             $table->timestamps();
         });
     }
