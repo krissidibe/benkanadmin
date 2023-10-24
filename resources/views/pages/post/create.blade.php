@@ -62,6 +62,12 @@
 									<br>
 								 
 								</div>
+								<div class="x_panel">
+									<div class="x_content ">
+										<input type="file" name="images[]" multiple id=""> 
+									</div>
+								</div>
+								
 		</div>
 </div>
 </div>

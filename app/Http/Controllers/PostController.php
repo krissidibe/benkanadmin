@@ -64,17 +64,35 @@ class PostController extends Controller
         ]); */
             
         $post  = new Post();
-       
-        $imageName = time().'.'.$request->image->getClientOriginalExtension();
-       
+        
+        $imageName = time().'.'.$request->image->getClientOriginalName();
         $request->image->move(public_path('images'), $imageName);
+      
+        $imageArray = array();
+        foreach ($request->images as $file) {
+            $filename = time().'_'.$file->getClientOriginalName();
+            //$filesize = $file->getSize();
+            $file->storeAs('public/',$filename);
+            $fileModel = new Post();
+            $fileModel->image = $filename;
+            $file->move(public_path('images'), $filename);
+            array_push($imageArray,$filename);
+           // $fileModel->size = $filesize;
+           // $fileModel->location = 'storage/'.$filename;
+            
+        }
+  
+       
+       // $imageName = time().'.'.$request->image->getClientOriginalExtension();
+       // $request->image->move(public_path('images'), $imageName);
         
        // $path = $request->image->move("/home/gestionb/public_html/images", $imageName);
        
-        
+       
         $post->create(
             [
-                'image' => $imageName,
+                'image' =>  $imageName,
+               'files' => implode(",",$imageArray),
                 'titre' => $request->titre,
                 'contenu' => strip_tags(htmlspecialchars_decode(html_entity_decode($request->contenu)))
                 
