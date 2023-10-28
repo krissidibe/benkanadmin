@@ -17,6 +17,7 @@ class Calendar extends JsonResource
         return [
         'id' => $this->id,
         'titre' => $this->titre,
+        'day' => $this->day,
         'startedAt' => $this->startedAt,
         'endedAt' => $this->endedAt,
         'isCompleted' => $this->isCompleted,

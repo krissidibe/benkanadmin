@@ -285,7 +285,9 @@ function getActiveDay(date) {
 
 //function update events when a day is active
 async function  updateEvents(date) {
- 
+ console.log("date");
+ console.log(dataPick.value);
+ console.log("date");
 let response = await  fetch("http://localhost:8000/api/events/"+ dataPick.value)
 const jsonData = await response.json();
 console.log(jsonData)
